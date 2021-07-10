@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2021-07-10 Sat 06:09 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Moonlight Xanadu</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Michal Atlas" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://www.pirilampo.org/styles/bigblow/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://www.pirilampo.org/styles/bigblow/css/bigblow.css"/>
+<link rel="stylesheet" type="text/css" href="https://www.pirilampo.org/styles/bigblow/css/hideshow.css"/>
+<script type="text/javascript" src="https://www.pirilampo.org/styles/bigblow/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="https://www.pirilampo.org/styles/bigblow/js/jquery-ui-1.10.2.min.js"></script>
+<script type="text/javascript" src="https://www.pirilampo.org/styles/bigblow/js/jquery.localscroll-min.js"></script>
+<script type="text/javascript" src="https://www.pirilampo.org/styles/bigblow/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script type="text/javascript" src="https://www.pirilampo.org/styles/bigblow/js/jquery.zclip.min.js"></script>
+<script type="text/javascript" src="https://www.pirilampo.org/styles/bigblow/js/bigblow.js"></script>
+<script type="text/javascript" src="https://www.pirilampo.org/styles/bigblow/js/hideshow.js"></script>
+<script type="text/javascript" src="https://www.pirilampo.org/styles/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Moonlight Xanadu</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org0d41fd6">1. Killing the Mansion</a></li>
+<li><a href="#org83edd29">2. The Will to Tango</a></li>
+<li><a href="#org01eaba2">3. When Fire Reigns</a></li>
+<li><a href="#orgeb92128">4. Manifest Legacy - Drafting</a></li>
+<li><a href="#org2594e4e">5. Chronos ex Machina</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org0d41fd6" class="outline-2">
+<h2 id="org0d41fd6"><span class="section-number-2">1</span> Killing the Mansion</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+It is often claimed that one's life flashes before one's eyes when they
+are dying. And as I sit here with all these wounds, it seems to be true,
+at least partially, because I indeed am dying, but my life didn't
+"flash before my very eyes", only the events of the last six hours. It
+began at one of the many extravagant, some may call them quite decadent,
+masked soiree. During one of many such a party, befell me a curious
+encounter. Footsteps I did hear, very calculated, profoundly precise.
+The type of profoundness that disturbs the mind and seizes attention.
+Soon the proprietor of the disconcerting step showed herself. She
+approached and introduced herself as Elisabeth maiden to the Jadewill
+mansion. I retorted as is expected of me in this company. I was bid to
+be a guest at yet another gala and of course, with my then lavish
+manners, I accepted hastily. As soon as I did, without a second word the
+maiden walked away. Disappearing in the crowd as abruptly as she had
+come. At the time I thought nothing of it.
+</p>
+
+<p>
+Soon I came about my old friend Clerval with whom I spent most my time,
+he is a tremendously learned scholar and speaks to that accord, I bear a
+strange liking to him. Angell was absorbed into this style of life with
+me as the primary catalyst. Clerval bowed, I rebound with a gesture of
+the hand and the greeting was over. We exchanged thoughts on the night
+and Clerval inadvertently mentions Elisabeth's invitation. And so I
+inquire, "Clerval, did you obey the invitation?". "No, for I fought
+the invitation and overcame it."
+</p>
+
+<p>
+Walking home that night, roaming around former St.~Stephen's tower, I
+saw a White raven roost, its patchy skin imperceptible through its white
+veil of feathers. Back home promptly after I retired to my room and bed,
+I was awoken by a loud reverberation of all six walls and a pleasant
+illumination coming from across the room, breaking through the blinding
+darkness. Donned my gown I reach out my hand to the handle of a door
+that seems to be the source of the glow. The moment my hand makes
+contact with the door, I find myself before an Elizabeth stood in the
+doorframe. She beckons me toward my dresser and utters that they shall
+be waiting outside. Once through my front door, I enter a red and black
+checkered little lounge, with a sofa in the centre and a newspaper with
+a wineglass by the side. Sitting down, turning to the page with the
+wineglass, I notice a drop of wine not from ink had appeared on my page.
+One glance upward yielded the answer to that question, Clerval was
+sitting there with a wineglass in his hand, having just spilt some. With
+haste, I received an apology for the potential danger he had posed to my
+suit, nevertheless interrupted by a quiet Elisabeth we were each led
+back out our respective door.
+</p>
+
+<p>
+We found ourselves standing in a tremendous amphitheatre headed by
+several grand figures. A strikingly tall man, with great muscle, his
+long silvery hair skillfully done into a wavy ponytail protruding from
+his ruffled hair, and a beautifully white old shirt, decorated in red by
+flowery etchings. He greets us with wide gestures, welcoming us to the
+Jadewill family Mansion. Introduces himself as Astrophel, next pointing
+to a pair of young girls dressed in little black dresses, whose names
+are apparently Callidora and Lucilla. The latter seeming slightly off.
+With the realisation that Callidora is not indeed alive, rather propped
+up with strings, came a powerful sense of Astrophel's wish of silence
+about the matter. You've already met Elisabeth, and Saber will show
+himself in due time. We've invited you here to celebrate Callidora's
+anniversary, and so we'll partake in a night of games. Each resident
+having prepared something that you may play, everyone else shall watch
+and enjoy themselves.
+</p>
+
+<p>
+It is midnight, Let the games begin!
+</p>
+
+<p>
+Lucian finds himself in a library. Not many people make up the current
+inhabitants of said library. One does approach Lucian and inquires,
+"Kind sir, would you mind dividing these digits into two groups?".
+Lucian replies with, "I shall name them M and F.".
+</p>
+
+<p>
+1F
+2F
+3M
+4F
+5F
+6M
+7F
+8M
+9M
+</p>
+
+<p>
+"Correct!", exclaims the man, "and for that, I shall shoot you.".
+"do not be hasty close friend", replies Lucian drawing a sword. But
+haste did overpower the men, and a shot was fired. Lucian stood there
+with a bullet wound in his heart, which curiously returned back from
+whence it came, the damage having healed completely. A shot man dropped
+the sword and proclaimed, "For now that I am dead, I shall rest my body
+in this here chalk outline.", and so he did. The shooter was soon
+arrested for manslaughter. Through a swift trial, with abundant
+eyewitnesses, he was sentenced to solitary confinement, with
+madness-alleviating torture. Lucian died in that prison at age
+sixty-seven.
+</p>
+
+<p>
+Lucian wakes up on a bed, in a familiar room. Green and black flower
+pattern, of course, this is where he waited before the audition with
+Astrophel. Checking his pocket watch, Lucian finds it is fifty-nine
+minutes after midnight, and so stands up from the bed. The lodging
+promptly rotates around, revealing that Clerval had been resting on the
+reverse side.
+</p>
+
+<p>
+Upon Clervall's awakening from his slumber, the duo is greeted by a
+familiar sight, a raven had roosted upon the bedhead. It seems that
+Saber had come to introduce himself. He seems to have as many bandages
+as he has hairs, a long flowing red cloak hiding surely yet more ravens
+and to top off the look, he had an animal skull attached to his head. He
+explains that the next event will be quite simple and that their entire
+purpose is to banish his pet. This is Strisk, Saber exclaimed soaring to
+the ceiling and performing a backflip onto it's back.
+</p>
+
+<p>
+Clervall stated in his always calm and calming voice, "RUN". We didn't
+even think, running through the nearest piece of wall into a hallway
+complex. We managed to evade the beast for a few years, even managing to
+find some information on how we could be able to dispose of Strisk. He
+could still be behind any corner, waiting\ldots{} at any time or
+thought. Every time he'd catch us, the pain was less unbearable. We
+tried, but one day, it came. I was on my back, Strisk devouring my body,
+which instantaneously grew back and repaired. This was quite preferable
+to running. The physical pain was nothing when compared to what I had
+suffered through, up to that point, however, it seems that the human
+psyche can only take so much pain before weakening, if only they made
+that part immortal as well. But being immortal, wasn't preferable in
+this situation, it was a curse, to make me able to experience what
+really mattered to them. As I lay there being feasted upon, in form by
+Strisk, in spirit by the rest of Jadewill, contemplating these
+circumstances, a flash of light appears next to Saber riding on the back
+of Strisk. The light instantaneously materialises into Callidora,
+slamming with inhuman force into the side of Strisk's head, knocking off
+Saber through the sheer force of impact. "I will not let you enjoy
+another second of this, for what you have done Astrohpel", shouts a
+very discontent Callidora at the top of her lungs. Before anyone could
+even begin to contemplate the thought of beginning to consider what to
+do next, reality around me started to show cracks. Through it I began to
+see my room, a place I had not seen in an hour and ten minutes or over
+fifty years, I have no idea. No matter how long it had taken, I was most
+certainly returning there. Falling bluntly into my recliner.
+</p>
+
+<p>
+It started with immense pain, my heard started bleeding. I thrashed
+around for a few minutes. Then, bite marks started to show. I am glad or
+sad, I don't know, I wished to die, but now I cling to life with all my
+might, that is the nature of man. As I lay here with all these wounds, I
+contemplate if I truly won. I would not have survived it by any chance,
+but Lucilla's death shortened my suffering. Death lead to death.
+However, this death, was the greatest gift.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org83edd29" class="outline-2">
+<h2 id="org83edd29"><span class="section-number-2">2</span> The Will to Tango</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+"So&#x2026; what do we do about the book?" said Cordelia looking
+around the dimly lit room, where several characters sat each in a deep
+leather armchair, each of their faces illuminated by a fire shimmering
+in the corner of the room. "Every one of us wants it and if one were to
+take it by force, the others would quickly overwhelm him" continues
+Ezekiel. A very old man, his image covered with many a grey hair and
+scar, in a deep vibrant voice suggests, "Whatever would you crave in
+return for surrendering it Ezekiel?". Perhaps if the person lost an arm
+and a leg I might be entertained enough. Saber starts to say something
+but is swiftly cut off by Ezekiel, "You are in no position to make
+demands Saber, I'm not afraid to take you on, the only ones here who can
+make demands except Astrophel is Callidora and Cordelia". "How about
+two castles then?", says Cordelia. Callidora makes an effort to look in
+the direction of Cordelia, even though her blindfold makes it a slightly
+problematic task, "Truly, you would yield your claim for the low price
+of two castles?". "Each", adds Cordelia. "The proposition is highly
+reasonable", replies Callidora, but I must conclude this debate for the
+time being for Astrophel seems to be somewhat Drowsy and I myself would
+greatly benefit from a slight whiff of fresh air. Cordelia snaps at
+Cordelia, "And who will guard the book if we're out?". Saber shyly and
+now with a slightly startled gaze at Ezekiel, suggests "Since Callidora
+has limited omnipotence she will be able to keep oversight of the book,
+while I keep an eye on her". "Yep, sounds swell", exclaims Ezekiel
+driving his palms right into the old carved wooden door; after the loud
+collision Ezekiel left the room with Cordelia and Saber in tow.
+Callidora sighs softly and beckons her butler close, whispering in his
+ear "Sabien, would you mind doing something about that clock, please".
+Sabien bows deeply and humbly, "Yes, ma'am". "Shall we?", asks
+Clerval with hand extended towards Callidora. "Thank you, I am able to
+stand by myself but walking around without colliding with all the walls
+is the arduous task, safe your care for later.". And so, Clerval and
+Saber walk slowly, leading Callidora through the halls towards a moonlit
+corridor with a wall full of windows, all of which are now open.
+</p>
+
+<p>
+Ezekiel and Cordelia may have a terrible temper, but they sure know how
+to make a good draft. The walls are lined with classic wooden carvings
+with depictions of torture, every stake a different carving. Some are
+lined with twisted metal reinforcements shaped into giant snake
+skeletons topped with animal sculptures of a cat, a winged man, a raven
+and a lion. "Have you ever been here before Callidora?", Clerval
+inquires. "The Jadewill Mansion's then residents never let anyone enter
+other that mortals.". "However I heard that you met the family head,
+what happened to them?", Clerval asked on. Callidora smirking
+continues, "After Lucilla Jadewill's death, her sister massacred the
+Jadewill family in retribution, not much is known about the incident.
+Though without her father's centuries of wisdom, which I must say he did
+not express in his manners even slightly, she could not tend to the
+mansion and wasn't able to carry on her clan's legacy. The Jadewill
+family was no more.". If you met him\ldots{} how old are you Callidora?
+Oh that is no question to ask of a lady like myself. You are utmost
+correct on that Callidora, I apologize. Callidora turns her head in the
+general direction of Clerval, informing him that she wants to advise him
+on a matter very important, "The Jadewill lineage is exceptionally
+longer than you think and considering the mansion's history the souls it
+claimed must be incomprehensible. None of us has the business of owning
+such a thing.".
+</p>
+
+<p>
+Saber raises his hand to stop the trio. "What might it be Saber?",
+asks Clerval, "wait&#x2026; ohh, what is that smell?". "This way",
+signs Saber. The three run down the corridor to a half-open door. Saber
+lightly nudges the door with the rear of his hand. "Keep your eyes on
+the book" shouts Clerval. Callidora gently nodding. Saber catches a
+glimpse of what is inside and turns around to vomit on the floor.
+Callidora tenderly addresses the vomiting pile of gibbering nonsense on
+the floor, "Oh we do have to do something about that weak stomach of
+yours, now don't we Saber?". Clerval peers inside just to be met with
+Astrophel's face. Continuing upwards with his gaze he comes to see that
+his upper body is completely wrapped in spiked chains, shred absolutely
+to pieces and bleeding. Clerval momentarily pauses pondering whether the
+part covered in chains is the upper or lower body, considering the chain
+is attached to the ceiling causing Astrophel's lifeless body to gently
+sway upside down in the wind coming through the door. Ezekiel, hearing
+the commotion, tears in and promptly slips on the blood.
+</p>
+
+<p>
+Back in the room, now shorter by one very old man.
+</p>
+
+
+
+<p>
+"So who was it Callidora?", nags Cordelia, "you know who it was&#x2026;
+just spill the beans so we can punish them already!".
+"I will tell you in due time".
+Ezekiel stands up, "If you aren't telling us them it must've been Sabien
+acting on your orders, whatever she whispered when we left, must've
+been the old man's death sentence".
+Callidora sips a smidgen of tea and as if to herself notes,
+"Oh how the young gentleman does like to cry wolf.
+Scon anyone? Tea perhaps?.".
+</p>
+
+<p>
+"Nevermind", rasps out Callidora sounding quite unsettled,
+and looking upwards at the ceiling.
+"What're you on about?", the loud boy tries to bark,
+before grabbing his head in immesne pain,
+and seeing the source of the pain,
+attempted to lash out at it.
+Just as his hand connected with a shiny cross on the ceiling,
+with a flash of light, he was gone.
+Yet instead of him, the center of the room had been filled,
+by a four-winged being, standing about 3 feet off the floor,
+with a sword in each hand, flowing white hair, and donning the name Nephilim.
+</p>
+
+<p>
+Callidora, in contrast to one's expectations of her,
+did not greet this stranger to her kind.
+The being, very slowly extended it's hand towards the book,
+after which it opened and a slip of paper was taken into Nephilim's hand.
+Everybody's headaches and a collapsed Cordelia stood up as before,
+when the being unexisted with yet another great flash of cross-shaped light.
+Every person save for Callidora had a stunned look on
+their face, one that reads "What in the nine hells just happened?".
+Callidora, started calmly explaining,
+</p>
+
+<p>
+"That was Nephilim, a collector of souls, for heaven's next age.
+Humanity is by its nature corrupt, and when the world is beyond the control of the heathens.
+They start again, anew, this world shall be the 10th hell and Eden will become the new world.
+But they need the purest of souls to populate new Eden, and so they steal from us.
+That right is their's to keep, for by definition, it is an act of God.",
+</p>
+
+<p>
+and as the clock struck ten,
+it was midnight, and on the strike of midnight, it was so.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org01eaba2" class="outline-2">
+<h2 id="org01eaba2"><span class="section-number-2">3</span> When Fire Reigns</h2>
+<div class="outline-text-2" id="text-3">
+<p>
+Thousands of years of ancestry now lie uncovered, closer than ever,
+glaring him in the eyes. Inviting the lost soul to take refuge in the
+few remains of what they once bared. The burdens of all he saw seemed to
+him as to shift unto his heart, with every step he grew more tired, more
+scared of this world. One he had helped build, but one he did not want.
+Vines surround him clutching his feet with all the might of centuries
+untold as if burdens his own had not been enough to bare. He endures for
+his journey's end is not far away. What he strives for, had been decades
+untended to, nature's grasp had dragged its legends deep into the
+ground. Stairs crumbled under every step he took, countless times he
+thought he'd fall, but this he did not care for, not for a single
+moment, he had not another place left to go, no other purpose. On his
+journey he passed countless statues, nature had taken their faces.
+Though he still recognized many, none of them could help him now. The
+gateway to this sanctuary once-great now lays broken and twisted. His
+mere presence disturbs this crypt lost in time. He placed his foot unto
+the tiled balcony which weaved his step into a melody announcing his
+arrival as it echoed through the crypt. He approaches\ldots{} gently
+raising his hand, inciting the rose and vine laden door to open. The
+scape of rust and degraded wood almost quelling the sounds of falling
+metal echoed once again throughout the tower. He entered the room, his
+feet disturbing layers of leaves, ash and dust. He had never come here,
+he had never been allowed. Overhead, cowering, sat many doves, he
+greeted them, for now, they shared fate. He passed torn paintings, old
+carved stone and many crosses. The room had once been decorated with
+beautiful wallpaper gold-laden with icons of religion and nature, even
+these were now but a reminder of a bygone world. He approached an old
+altar on each side of which stood the statue of an angel, one clutching
+a quill and the other a piece of parchment. He approached and as he
+knelt down one of the doves flew down unto the altar, raising its head
+in anticipation. The old man dropped to the ground crying and begged for
+forgiveness, for the world to be saved, for the world to not suffer for
+his sins. He pleaded the struggle would come to an end. The dove flew
+outside the tower from whence the man came and picked an olive branch,
+then soared off the tower. The old man's soul was at rest, he followed
+the dove outside and having completed his journey he took a step off the
+ledge.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeb92128" class="outline-2">
+<h2 id="orgeb92128"><span class="section-number-2">4</span> Manifest Legacy - Drafting</h2>
+<div class="outline-text-2" id="text-4">
+<p>
+I was leaning upon my office door,
+reading the changelog of current law,
+looking smart, looking loyal.
+I was called by the loudspeaker to my superior's office.
+Scrumbling through the camp as to not keep him waiting.
+I enter as is apt for my post, with a salute on my chest and discipline in my stride.
+</p>
+
+<p>
+"Sir, Fjäderklädd Christopher Gosling reporting sir".
+"At ease", replies Graham Fox.
+</p>
+
+<p>
+Seems you are no longer my problem,
+tommorow you are to board the High-train,
+head for Daemon and report directly to the vice-secretary of the Tenno,
+I don't know why he requested your presence,
+however it is his will,
+you will be on that train tommorow G hour sharp
+</p>
+
+<p>
+Standing in this hall, the air is much staler than I had expected, as my consciousness dips slighly, I remember very well a moment. I was leaning upon my
+office door, reading the changelog of current law, looking smart, looking loyal. I
+was called by the loudspeaker to my superior’s office. I scrumble through the
+camp as to not keep him waiting. I enter as is apt for my post, with a salute on
+my chest and the words “Sir, Fjäderklädd Christopher Gosling reporting”. “At
+ease”, he replied “you are no longer my problem, tommorow you are to board
+the High-train, head for Daemon and report directly to the vice-secretary of the
+Tenno, I don’t know why he requested your presence, however it is his will, you
+will be on that train tommorow G hour sharp”, dismissed I leave.
+After my arrival in the tenth ward where Daemon is located, I was directed by
+the automatic system to my lodgings and allowed some 2 hours of Private Time
+since, the journey was long and couldn’t be made within reasonable time. And
+so I peered across the landscape from my balcony, through the mist just along
+the horizon, Ward 11 was just about visible. It’s exactly as I’d imagined it, all
+those astonishing buildings were indeed so imposing, even more so helped by the
+fact that the common folk is usually kept out. With a sip of whisky I retire to
+my room.
+</p>
+
+<p>
+“Good morning; Look at the sky and wake up to a day prosperous to our nation”,
+they often try to change up the text, but it’s always the same crap, one starts
+to internalize
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2594e4e" class="outline-2">
+<h2 id="org2594e4e"><span class="section-number-2">5</span> Chronos ex Machina</h2>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Michal Atlas</p>
+<p class="date">Created: 2021-07-10 Sat 06:09</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
