@@ -364,4 +364,280 @@ my room.
 they often try to change up the text, but it’s always the same crap, one starts
 to internalize
 
-* Chronos ex Machina
+* Chronos ex Machina - Drafting
+
+* Worldbuilding
+
+** Manifest Legacy
+- The Overseen Lands of Astartis
+| Basic Info                                                      |
+| ---                                                             |
+| Motto: "Let the strongest guide the rest to their mutual goals" |
+| Capital: Daemon                                                 |
+| Anthem: Dies Irae Instrumental (Requiem in D Minor K. 626)      |
+| Official Language: Asta / English (High-Classes)                |
+| Government: Non-Hereditary Absolutist Technocracy               |
+| Legislature: Chamber of the High Overseers + Senate             |
+| Currency: Astartian Credits (Ϡ)                                 |
+| Calling Code: +28                                               |
+
+The Overseen Lands of Astartis", also known by their shortened name "Astartis", are an island nation about 1200km of the west coast of the mainland. It is ruled by an absolutistic ruler who is challenged by the chamber of the high overseers who have the right to later overrule his decisions or appeal him entirely. The state is centred heavily around the idea of testing everything and everyone rigorously, when a citizen is old enough they are subjected to an examination that determines their aptitude towards different fields and then get sent of to a school accordingly. Another unique system is the concept of wards, the citizens get ranked based on their wage and usefulness, this rank will affect permissions to travel, make certain services harder to find or completely disqualify you from buying housing in specific parts of the state, just to name a few.
+
+
+
+- Declaratory paper of the Overseen Lands of Astartis
+- Preamble
+    We the founding fathers of these lands,
+    the writers of this constitution
+    hereby declare that all contained within this charter
+    is to serve the people of the state and
+    or serve the mutual benefit of us all
+
+- State Organization
+  1. Citizens are divided into Ranks 1-10
+  2. These Ranks are calculated through wage and greater worth of the occupation provided by the citizen; formula provided by law
+  3. Nation is divided into 14 wards
+  4. Wards 1 to 10 are reserved for citizens of matching or higher Ranking
+  5. Citizens are free to move to higher rank wards but will not be allowed to gain permanent residency or temporary residency for durations longer than 12 days
+  6. Citizens of Rank 7 or Higher may file a request to leave the country up to three times per year for periods of up to two months total; If the quota is exceeded the citizen's property will be on lockdown for 35 days in this period there will be no access to the property and all funds and assets will be frozen. While the assets are in lockdown the original owner may request the release of property, if no request had been received in the lockdown period the state will take hold of the property.
+  7. Ward 11 is reserved for executive ministers and high ranked bureaucrats
+  8. Ward 12 is where intelligence bureaus and agencies have their headquarters it is never to be stationed lower than it's current location.
+  9. Ward 13 is reserved for the residency and gatherings of the high council and senate.
+  10. Ward 14 is the sole property and usual residence of the current Tenno.
+- Governmental positions
+  1. General
+     1. Every governmental position has a set title and signature; not refering to them in any other way or talking ill of the post is doubting their abilities and may be considered treason; signatures not made precisely according to the diagram or in any way damaged are no longer valid
+     2. Every government official excluding the Overseer Tenno must design their own crest easily distinguishable from any previous. This crest is used as the one variation to distinguish who signed any given paper
+     3. Except Overseers and the Overseer Tenno the positions are selected from 60 candidates using DSOTs; the selection process of the candidates is specified by law
+  2. Overseer Tenno
+     1. The current Tenno may not alter the constitution in any way; he may change any law as he sees fit, this law doesn't need to be written down to be valid but in that case loses validity after 7 days, the law may be revoked by a majority of the High Overseers but at least 7 days must have passed.
+     2. In the event of the death, inability to rule or other freeing of the Tenno position the new overseer will be chosen from 100 candidates using a series of DSOTs specified by law called a Conclave; The law may specify any number of DSOTs and physical or mental examinations however any tests exceeding 14 days from the beginning of the trials will not be held or if already initiated must be immediately terminated with no scoring given.
+     3. In the case that the Conclave can't be held the new Tenno will be the next highest scoring surviving attendant of the last Conclave.
+  3. The Council
+     a. The Council consists of 5 High Overseers; all 5 of whom must be attending the council for it to utilise it's will
+  4. Overseer
+  5. Senator
+
+- Acronyms
+
+  + OAT - Occupational Aptitude Test - an examination to test your general aptitude towards a given field or set of jobs; contents specified by the examination beaureau
+  + DSOT - Determining Specific Occupational Test - an examination that returns a score of how well the individual would perform in the one specific job; contents specified by the examination beareau
+
+- Title Chart
+
+| Name                     | Referring                                                 | Signing                                                 |
+| ---                      | ---                                                       | ---                                                     |
+| Overseer Tenno           | Tenno                                                     | Tenno of the Overseers                                  |
+| Overseer Tenno Candidate | Adept {Regular Title}                                     | Adept {Regular Signature}                               |
+| High Overseer            | High Overseer                                             | High Overseer {crest}                                   |
+| Overseer                 | Sire                                                      | Overseer of Ward {ward number} {crest}                  |
+| Senator                  | Senator {Surname} {number of predecessors with same name} | Senator {Crest} {number of predecessors with same name} |
+
+- Firefly Festival - Extra day
+- Vyper - Card game
+
+- Skitora
+
+If you ever happen to find yourself in the presence of someone of the combat domain, you may notice a small knife-like apparatus attached to their belt, often carried in sets of two, one on each side. This is called a skitora and is one of the first weapons young Astans come into contact with.
+
+Of course, young trainees use dulled blades for the sake of their own safety. 
+When unsheathed the skitora resembles what seems like a smallish circle with 3 blades protruding along the edge of the inner circle. 
+
+A few points and an explanation of the usage:
+
+- The user spins the centerpiece with a circular movement, setting the blades in motion.
+- The centre contains an intricate set of tiny mechanisms that enable the user to shoot out or lock in place any of the 3 blades respectively.
+- The blades usually feature small holes that create extremely chaotic movement while in the air, thanks to the way air moves through them.
+- Contrary to popular belief, if thrown correctly the motion of the blade can indeed be predicted by the user. This, however, does nothing to help the defender as he has no way to know which configuration any particular blade has.
+
+The skitora's widespread use emerged after common folk started to be able to evade throwing weapons, this forced researchers to find a way to adapt the throwing knife to make it harder to evade. Soon, a prototype came forth not much different from the version which we know today. It enabled the convenient usage of multiple knives at once and made the time of projection unpredictable. Today only slight improvements have been made to the Skitora and dodging it is completely out of the question.
+
+- Animals
+  + The Assistant Star
+
+Astartis is filled to the brim with unique and fascinating creatures. Today we'll be having a look at one of the most common animals you'll find all across the island. I'm of course speaking of the Assistant star a beloved pet of many astartian citizens however also a reliable coworker and assistant, hence the name. The star gets its other name from its shape, having a multiple of 4 tentacles (4 being the most common; the record is 24, this AS had been discovered alone on a barren mountainside and is now assistant to the Tenno), protruding from a small disk-shaped body in the middle. It has no head, rather the mouth etc. is located at the bottom of the body. In the wild, they utilize their dexterity, agility and extremely sensitive sensory organ to hunt small prey. They are apt fighters, and though their tentacles are strong, the same cannot be said for their body which is extremely brittle and thus rarely exposed when fighting, severely limiting their fighting stance.
+
+Upon closer inspection of an AS (regular abbreviation of Assistant Star) you may come to the conclusion that they are blind, never turning in any way in reaction to stimuli and don't seem to have any visible holes in the body except for the mouth, but you'd be mistaken for assuming anything close to blindness in this species. Because the circular change in texture on top of the head is actually a dome housing it's electromagnetic sensor similar to what sharks use, it is also very sensitive to vibrations and tiny amounts of ultra-violet light.
+
+They have quite incredible regeneratory abilities in every part of the body except the exoskeleton. As a consequence scientists have been able to very easily cram the creature full of electronics like kill switches, treat dispensers, pain inducers and a computer to control those. Today you'd rarely find a tamed AS without them because they make the creature obedient and safe to use.
+
+Statistics show that the pain-inducing apparatus is very rarely activated, probably due to the AS being an extremely simple-minded creature, it reacts to any positive stimuli well and doesn't have a need to rebel in any way.
+
+The skin texture of the AS varies wildly from one to another, for the simple reason that in the wild they are spread all across the land from mountains to rivers to forests, some may even have fur.
+
+*** Characters
+
+- Lucian Christopher Gosling
+  + Motivations - Career (Become Leader?) - Write a book - ?Change a law
+  + See them pay (Ruse) - Planning an assassination - Traits - Laxed Morals for Goals - Alexithymia
+  + Rank: Fjäderklädd at the start promoted to Vinggeneral (Wing General)
+  + Identified by AI model as a danger to the crown
+  + Written a book (Tanya)
+  + Gain Digital Access to Aleksis Reignens Identity
+    - Steps
+      - Facial Recognition> Photogrammetric reconstrucion of face
+      - Palm Print> from lost hand (AR has a prosthetic (Blueprint / Recovered))
+      - Pass> Directional Microphone?
+      - Bombers glide with idle engines through the night siently (Night Witches - bomber regiment 588)
+
+- Clerval Angell
+  + Gay
+  + Photograph
+  + Motivations
+    - Safe world
+    - Admires Lucian’s potential for power
+  + Rank: Kommunikationschief (Communications Officer)
+
+- Petra Helvete
+  + Rank: Mechanist; StrikeForce
+
+- Aleksis Reignen
+  + Illusive man / Tanya style
+  + Knows LCG is a spy - Wants to take him down by himself
+  + Thinks too highly of his own abilities
+  + Thinks assassination is the purpose
+  + Rank: Monarch (Lord)
+  + Wants the final word in case of betrayal,
+  + systems set for him to be able to override everything
+
+*** Setting
+- Midst of conflict
+- PDAs
+- Style
+  - Dark
+  - Corridors of Law and Knowledge
+  - Prison Boys??
+  - WH40KRPG Style?
+- Bureaucratic haven
+- Calendar and Time - Use base 36 or 16 for stuff
+  + Base 36 Calendars
+  + Day Names
+    - Standardized alternating 3 and 2 work days
+      - Mun [mun]
+      - Tus [tas]
+      - Wed
+      - Thor
+      - Free
+      - Fry
+      - Sut
+      - Sun
+      - Free
+  + 52 Weeks in a year
+  + 4 Week Months
+  + 13 Months
+  + Silver Week at end of year +1 free day
+  + Base 24 time
+    - D hour, G hour
+  + Minute and second problem Omit W and (J \rightarrow Y)
+  + Zero hour
+  + “A” hour = 1
+  + “.” if minute or second above 59
+  + No time-zones
+- Neural Network AI models are trusted and used
+  - Purpose of generals?
+  - Implants?
+
+*** Timeline
+- Retrospective from before the Royal Chamber scene
+- Reading (Law) Book
+- LCG Called by Loudspeaker to superior
+- Information = “LCG was promoted, thus, will travel to main city with Aleksis”
+- AR plans to kill LCG himself
+- Wakes up to mandated radio, shows of morning drill
+- AI Identified LCG as someone who would bring down the empire
+- 5 hour outage lets LCG rewrite parts of the AI
+- Kabedon scene between LCG and CA right before plan
+- Scene between LCG and AR in AR’s private chamber
+- LCG disables all defenses and launches attack on Beaurecratic district
+- AR watches his empire burn
+- Why can’t anyone else have done this
+
+- Minor Notes
+  + Army Name: Wrelnach of Izlaron
+  + Omniscient POV changes
+  + German Sword Style (MonoWire)
+  + I shall live eternally through my code
+  + Every journey starts with a single step.
+  + A crown does not make a king.
+
+** Chrono ex Machina
+
+- Space-faring humans left the planet a long time ago
+  + Or they died out
+- Most structures have been destroyed
+
+- The original civilization used "machines" for their daily tasks
+- Their authorization is based on DNA
+- They work based on brain activity and passwords
+- Examples
+  + Mining machine \rightarrow Destruction school of magic
+  + Entertainment \rightarrow Illusion
+- Time artifact
+  + Main power source
+  + Takes energy from the heat death of the universe
+
+- Many many years later a new civilization formed
+  + Some DNA ended up similar, since it is the same planet with a similar environment
+    - So some humans and animals are able to use the machines, which they think is magic
+
+- Machines have a limited range (in 100s of Km)
+  + Their power falls off by distance
+
+*** Timeline
+
+- Crack
+- The main character is bound to the time artifact
+- Slows time once
+  + Since he gets close enough to the artifact for the first time
+- Tries to find the nature of his power
+- Nobody knows or wants to tell him about the nature of magic
+- Tries to get audience with high kings and wizards
+- What to do when he finds the artifact?
+
+*** Encounters
+
+- castle underground
+- daniels ranch
+- leanaras magic shop
+- spire statutorium
+- spire galateas chambers
+- park atrium
+
+- forest outback
+- wolf cave
+- basilisk lake
+- saltwharf arrival
+- faeria
+- manor
+- griffin tower
+
+- The vampire immortal
+  + Castle sitting on a Hospital machine
+  + Found passcode
+
+- castle underground -- "Contains a Lost Soul"
+
+- Cities
+  + Highspire
+    - The Spire
+    - Saltwharf
+  + Cleardocks
+    - Far Bank
+    - Garden
+    - Great Water
+    - Hook
+    - Middledocks
+    - West District
+  + Seychia
+- Characters
+  + Antheus (Captain of the Guard)
+  + Galatea the beloved (Court Artist)
+  + Ithonij (Court Geograph)
+  + Richard + Daniel (Ranchmaster)
+- Factions
+  + The Hashtar Guild
+  + Crimson Forsaken
+  + Feyladen
+  + Moongold Guild
+  + Mornrise Kinship - Many call them druids, but those are merely disciples and students of their teachings. The Mornrise are a group that have directly bound themselves to the titan gaya.
+  + Wolves of the East
