@@ -10,6 +10,7 @@
 #+LATEX_HEADER: \color{white}
 
 #+HTML_HEAD: <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+#+HTML_HEAD: <style>body{max-width: 100rem;}</style>
 
 * Killing the Mansion
 It is often claimed that one's life flashes before one's eyes when they
