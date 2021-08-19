@@ -2,8 +2,8 @@
 set -euox pipefail
 
 git worktree add /tmp/gh-pages gh-pages
-emacs README.org --batch -f 'org-html-export-to-html' --kill
-mv README.html /tmp/gh-pages/index.html
+pandoc Moonlight-Xanadu.org --toc -s -o index.html
+mv index.html /tmp/gh-pages/index.html
 cd /tmp/gh-pages
 git add .
 git commit -m "$(date -Ins)"
