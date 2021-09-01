@@ -2,8 +2,9 @@
 set -euox pipefail
 
 git worktree add /tmp/gh-pages gh-pages
-pandoc Moonlight-Xanadu.org --toc -s -o index.html
-mv index.html /tmp/gh-pages/index.html
+printf "PDF version for download [[file:Moonlight-Xanadu.pdf][here]].\n\n%s" "$(cat Moonlight-Xanadu.org)" | pandoc -f org --toc -so index.html
+pandoc Moonlight-Xanadu.org --toc -so Moonlight-Xanadu.pdf
+mv index.html Moonlight-Xanadu.pdf /tmp/gh-pages/
 cd /tmp/gh-pages
 git add .
 git commit -m "$(date -Ins)"
