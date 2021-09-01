@@ -9,9 +9,6 @@
 #+LATEX_HEADER: \pagecolor{black}
 #+LATEX_HEADER: \color{white}
 
-#+HTML_HEAD: <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
-#+HTML_HEAD: <style>body{max-width: 100rem;}</style>
-
 * Killing the Mansion
 It is often claimed that one's life flashes before one's eyes when they
 are dying. And as I sit here with all these wounds, it seems to be true,
@@ -522,9 +519,9 @@ I stood there laughing, until my death.
 
 * Mares of the Night :draft:
 Here, I would like to try and remember some of my olden dreams.
-Most of them happened a long time ago, so my memory will not serve well,
-in creating these very short synopses.
-I remember voice-recording some of them, however most of these are lost to time so far.
+Most of them happened a long time ago, so my memory will not serve well.
+I remember voice-recording most of them, however these are lost to time so far.
+When one of them comes up, I'll add its contents.
 ** The Plague
 ** The Dragon Queen
 ** Spaceship
@@ -559,6 +556,8 @@ The human that did throw him there laughing, above him.
 
 - Prophecies?
   - Written by hero
+
+- Set in prohibition/victorian style backdrop
 
 *** Timeline
 
@@ -596,13 +595,13 @@ The human that did throw him there laughing, above him.
   + Highspire
     - The Spire
     - Saltwharf
-  + Cleardocks
-    - Far Bank
-    - Garden
-    - Great Water
-    - Hook
-    - Middledocks
-    - West District
+    - Cleardocks
+      + Far Bank
+      + Garden
+      + Great Water
+      + Hook
+      + Middledocks
+      + West District
   + Seychia
 - Characters
   + Antheus (Captain of the Guard)
@@ -621,6 +620,6 @@ The human that did throw him there laughing, above him.
     + Mercenaries
 
 *** Characters
-
-**** Einar
-- Main
+- Names: Shaw, Cross, Ward, Caylum, Adam Stone, Hanlock, Isaac, Gordon, Archie, Paraskeva, Titus, Evangelia, Sven, Joakim, Kolbjørn, Hawken, Edvin, Torstein, Magnus, Øyvind, Daniel, Anna Maria, Kai
+**** Einar - Main
+**** Bandit - Kayden
