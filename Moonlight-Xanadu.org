@@ -9,6 +9,9 @@
 #+LATEX_HEADER: \pagecolor{black}
 #+LATEX_HEADER: \color{white}
 
+#+HTML_HEAD: <link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/coelacanth" type="text/css"/>
+#+HTML_HEAD: <style>body { font-family: 'CoelacanthRegular' } </style>
+
 * Killing the Mansion
 It is often claimed that one's life flashes before one's eyes when they
 are dying. And as I sit here with all these wounds, it seems to be true,
@@ -540,21 +543,34 @@ The human that did throw him there laughing, above him.
 - modern civilization uses "machines" for their daily tasks
 - Their authorization is based on DNA
 - They work based on gestures and passwords
-- Examples
-  + Mining machine \rightarrow Destruction school of magic
-  + Entertainment \rightarrow Illusion
 - Time artifact
   + Main power source
   + Takes energy from the heat death of the universe
   + causes permanent existence of the machines
     - forwards and backwards in time
-
 - Machines have a limited range (in 100s of Km)
   + Their power falls off by distance
+  + Radiation based effects
+  + Plants can absorb radiation
+    - Chernobyl increased radiation during fires
+  + Condemned land
+    - Places with constant random effects
+  + Duress Point
+    - center with the machine
 
-- Other high-tech ("magic") artifacts are accidentally brought here
+- Examples
+  + Mining machine \rightarrow Destruction school of magic
+  + Entertainment \rightarrow Illusion
+  + Time \rightarrow powering the other machines from the heat death, Other high-tech ("magic") artifacts are accidentally brought here
+  + Medicinal \rightarrow undead
+  + Transmutation
+  + Divination
 
 - Prophecies?
+  - Vision of the operator
+    - Silver ring in the sky above a mountain
+    - White streaks rising from the ring as if a hurricane were passing upwards through it
+    - A green dragon/spirit face rises through the ring and speaks
   - Written by hero
 
 - Set in prohibition/victorian style backdrop
@@ -568,9 +584,17 @@ The human that did throw him there laughing, above him.
 - Tries to find the nature of his power
 - Nobody knows or wants to tell him about the nature of magic
 - Tries to get audience with high kings and wizards
+  + Lady Evangelina sends the gang on quests
+    - Promises to let them in on the secrets if they complete them
+      + Crime investigation
+      + Artifact bringing - Water from Kai's fountain
+      + Investigation of an exclusion zone
+        - The nature of the Time Artifact's zone is not known
 - What to do when he finds the artifact?
+  - Releases the operator so anybody can pray to him and gain the machines' powers
+- Einar needs to find a way to protect himself from the effects
 
-*** Encounters
+** Encounters
 
 - castle underground
 - daniels ranch
@@ -587,9 +611,9 @@ The human that did throw him there laughing, above him.
 - manor
 - griffin tower
 
-- The vampire immortal
+- The vampire immortal - Kai
   + Castle sitting on a Hospital machine
-  + Found passcode
+  + Wants to pass the mantle to someone noble
 
 - Cities
   + Highspire
@@ -602,12 +626,13 @@ The human that did throw him there laughing, above him.
       + Hook
       + Middledocks
       + West District
-  + Seychia
-- Characters
-  + Antheus (Captain of the Guard)
-  + Galatea the beloved (Court Artist)
-  + Ithonij (Court Geograph)
-  + Richard + Daniel (Ranchmaster)
+- Seychia
+  + Characters
+    - Evangelia (Queen)
+    - Antheus (Captain of the Guard)
+    - Galatea the beloved (Court Artist)
+    - Ithonij (Court Geograph)
+    - Richard + Daniel (Ranchmaster)
 - Factions
   + The Hashtar Guild
     + Miners
@@ -620,6 +645,7 @@ The human that did throw him there laughing, above him.
     + Mercenaries
 
 *** Characters
-- Names: Shaw, Cross, Ward, Caylum, Adam Stone, Hanlock, Isaac, Gordon, Archie, Paraskeva, Titus, Evangelia, Sven, Joakim, Kolbjørn, Hawken, Edvin, Torstein, Magnus, Øyvind, Daniel, Anna Maria, Kai
+- Names: Shaw, Cross, Ward, Caylum, Adam Stone, Hanlock, Isaac, Gordon, Archie, Paraskeva, Titus, Sven, Joakim, Kolbjørn, Hawken, Edvin, Torstein, Magnus, Øyvind, Daniel, Anna Maria, Kai
 **** Einar - Main
-**** Bandit - Kayden
+**** Kayden - Bandit
+**** Kai - The Immortal
