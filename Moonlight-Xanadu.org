@@ -534,8 +534,38 @@ When one of them comes up, I'll add its contents.
 
 * Chronos ex Machina :draft:
 
+#+BEGIN_QUOTE
+In this story, it is quite important to understand that
+none of the characters speak English unless otherwise stated.
+#+END_QUOTE
+
 Countless cracks and searing pain shoots up Einar's spine, as his back collides with a sharp rock on the ground.
-The human that did throw him there laughing, above him.
+The human that did throw him there laughing, above him,
+tall, deceptively lean yet very strong.
+A classic tale of highwayman robbery,
+a few thugs ganging up on a lone traveller to the city.
+For them it's like skewering fish in a barrel this time of year,
+we like to have fun and
+Lady Galatea's birthday celebration
+is one of the biggest fairs to be hosted in our capital.
+Though I probably won't get there even if they leave me alone,
+since urghh... my head feels like somebody is trying to rip it away
+and I don't think I feel my legs.
+Some woman from the assailing party seeing my paralysing pain,
+sees an opportunity to loot my belongings.
+And as she was reaching over my coat I tried to defiantly defend myself arm and leg
+to save my possessions.
+To the surprise of me and thankfully everyone around me,
+the woman's clothing vanished, having been replaced by strange black robes.
+The  material was matte but strangely off,
+it reflected light in ways that didn't seem natural and
+blue jagged shapes became visible on her skin.
+
+"Witch, it's a witch!", she shouted scampering back,
+almost slipping before running directly in the direction of her friends.
+Whom her screaming and change of visage thoroughly convinced to
+spend no more time hesitating and run like hell as well.
+Relieved, Einar stood up carefully
 
 * Worldbuilding :draft:
 
@@ -567,6 +597,7 @@ The human that did throw him there laughing, above him.
   + Divination
 
 - Prophecies?
+  - Old King's Visions
   - Vision of the operator
     - Silver ring in the sky above a mountain
     - White streaks rising from the ring as if a hurricane were passing upwards through it
@@ -574,25 +605,29 @@ The human that did throw him there laughing, above him.
   - Written by hero
 
 - Set in prohibition/victorian style backdrop
+- steam vs. electricity - current wars
+- Kai's fountain doesn't heal Kayden's tattoos
+- Island of Iera
 
 *** Timeline
 
 - Crack
 - The main character is bound to the time artifact
-- Brings somebody clothing from the future
+- Brings Kayden clothing from the future
   + Since he gets close enough to the artifact for the first time
-- Tries to find the nature of his power
-- Nobody knows or wants to tell him about the nature of magic
-- Tries to get audience with high kings and wizards
-  + Lady Evangelina sends the gang on quests
-    - Promises to let them in on the secrets if they complete them
-      + Crime investigation
-      + Artifact bringing - Water from Kai's fountain
-      + Investigation of an exclusion zone
-        - The nature of the Time Artifact's zone is not known
-- What to do when he finds the artifact?
+- The Bandit camp thinks the Cyberpunk-like Tattoos are a plague
+- Kayden goes looking for a cure
+- Gets sent to Irea to Kai's fountain to heal herself and Einar (spine injury from Bandit attack)
+  + By Liliana because she recognizes the tattoos (calls on them herself)
+  + Kayden won't go, she thinks it's for an arrest
+  + Since Einar gave Kayden future clothing he must be time-bound
+  + Liliana doesn't understand the machines
+  + But wants to send Einar to the Duress zone of the time-machine in an attempt to extract a prophecy
+  + Einar needs to find a way to protect himself from the other effects
+- Does Kayden try to steal or negotiate with Kai? (She's a bandit she'll sneak in)
+  + They'll return further along in the story
+- What do when he finds the artifact?
   - Releases the operator so anybody can pray to him and gain the machines' powers
-- Einar needs to find a way to protect himself from the effects
 
 ** Encounters
 
@@ -628,7 +663,7 @@ The human that did throw him there laughing, above him.
       + West District
 - Seychia
   + Characters
-    - Evangelia (Queen)
+    - Liliana (Queen)
     - Antheus (Captain of the Guard)
     - Galatea the beloved (Court Artist)
     - Ithonij (Court Geograph)
@@ -645,7 +680,7 @@ The human that did throw him there laughing, above him.
     + Mercenaries
 
 *** Characters
-- Names: Shaw, Cross, Ward, Caylum, Adam Stone, Hanlock, Isaac, Gordon, Archie, Paraskeva, Titus, Sven, Joakim, Kolbjørn, Hawken, Edvin, Torstein, Magnus, Øyvind, Daniel, Anna Maria, Kai
+- Names: Shaw, Cross, Ward, Caylum, Adam Stone, Hanlock, Isaac, Gordon, Archie, Paraskeva, Titus, Sven, Joakim, Kolbjørn, Hawken, Edvin, Torstein, Magnus, Øyvind, Daniel, Anna Maria, Freya
 **** Einar - Main
 **** Kayden - Bandit
 **** Kai - The Immortal
