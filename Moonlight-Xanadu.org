@@ -534,6 +534,8 @@ When one of them comes up, I'll add its contents.
 
 * Chronos ex Machina :draft:
 
+** Highspire :draft:
+
 #+BEGIN_QUOTE
 In this story, it is quite important to understand that
 none of the characters speak English unless otherwise stated.
@@ -565,7 +567,77 @@ blue jagged shapes became visible on her skin.
 almost slipping before running directly in the direction of her friends.
 Whom her screaming and change of visage thoroughly convinced to
 spend no more time hesitating and run like hell as well.
-Relieved, Einar stood up carefully
+Relieved, Einar stood up carefully,
+shouted a thank you to the mysterious force that saved him, adjusted his flat-cap and
+attempted to start walking before falling back to the ground.
+He will be lying here for some time, so let's go look at the capital.
+
+Later, In the city of Highspire in the middle of the spire's gardens,
+a large crowd is watching Lady Galatea the Beloved's painting display.
+She sits upon a stool on a stage with a single brush in her hand,
+a few colours set out on her tripod under her painting of a great cathedral scene.
+The people in the crowd could smell the wet stone, they could hear the bells ring,
+and with every grandiose yet precise stroke of Lady Galatea's brush, a bird or petal,
+flew out of the canvas, either to be carried by the wind or to fly over the heads of onlookers and
+burst into colorful streaks of light.
+Her beauty and flowing clear white robe awes everyone in the crowd including Einar,
+who managed to get the help of some passers by and is now sitting in a chair viewing the splendor,
+crutches resting against it.
+And as the show came to a close, and Lady Galatea bowed to the crowd with a smile,
+they cheered and clapped, retiring afterwards to the City's pubs and inns which
+brought out all their tables into the streets so that the cheers, dances and music
+need not stop during the lunch hours.
+
+Einar also went down to eat but didn't enjoy himself for very long,
+since suddenly, a tall hooded figure grabbed him by the neck and lifted him up,
+knocking his chair and cane over.
+"Lift my curse Wazzack[fn:: A most hateful word for somebody with a connection to magic],
+or die here by my hand.", said she.
+Einar was understandably confused, until the figure swiftly cleared that up.
+She pulled down her hood to reveal the bandit who had just attacked him,
+she was forsaken by her clan, for what they called "the plague".
+Einar couldn't speak, properly, as he was being hung a few feet above ground,
+but managed to convey "not.... mage".
+She dropped him to the ground and thought for a bit out loud,
+"If you had access to magic, you'd've magiced away of whatever already, Huh?".
+Neither of them had any idea how it worked so Einar shrugged.
+She tossed Einar's cane at him, still being angry,
+she did it so that he wouldn't catch it and it hit him in the head.
+Then she grabbed Einar and lifted him to his feet and
+extended her hand to greet him with elegant precision.
+Einar hesitated but, eventually shook her hand,
+mostly out of fear, since he knew he would have no chance against her in any way.
+"The name's Kayden and you already know my game."
+
+"What a convenient time for a guard to show up, thought Einar."
+The guard points to our duo,
+"By the name of Lady Liliana, you two, come with us, she wants to speak with you".
+"Great, now they think I'm a criminal because I shook hands with one",
+thought Einar to himself, but barely had he time to contemplate this,
+before he heard the sounds of Kayden skittering away behind him,
+but to his surprise then a rustling of metal and
+he saw two legs pass inches away from his head,
+hitting the guard dead in the chest with thundering force, knocking him on his back.
+
+"She decked Antheus", cried one of the other guardsmen.
+Antheus was the captain of the city guard,
+and trained his men well and just,
+gaining a fierce reputation in the process.
+Seeing their leader, knocked over so effortlessly surely,
+struck them hard, which gave Einar and Kayden the few second headstart they needed.
+Well, at first it was just Kayden, but after a few steps,
+guilt caught up with her, so she grabbed Einar and dragged him along.
+Even though Antheus quite literally jumped to his feet,
+before kicking his weapon from the floor into his hand,
+Kayden's trick or two almost got her to safety.
+But climbing the wall wasn't an option for poor Einar,
+whose injury was underestimated by Kayden,
+so they fell into the hands of the guards.
+
+To their utmost surprise, both were treated extremely well afterwards.
+Left to wander beautiful rooms before the Lady returns from the Fairs outside.
+They even had a view of it all, since the Spire was tall and with many fully glassed walls.
+
 
 * Worldbuilding :draft:
 
@@ -624,6 +696,7 @@ Relieved, Einar stood up carefully
   + Liliana doesn't understand the machines
   + But wants to send Einar to the Duress zone of the time-machine in an attempt to extract a prophecy
   + Einar needs to find a way to protect himself from the other effects
+- Kayden's ship encounters a Basilisk and leaves her stranded on Iera
 - Does Kayden try to steal or negotiate with Kai? (She's a bandit she'll sneak in)
   + They'll return further along in the story
 - What do when he finds the artifact?
