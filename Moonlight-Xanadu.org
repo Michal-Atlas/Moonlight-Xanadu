@@ -532,9 +532,9 @@ When one of them comes up, I'll add its contents.
 ** The Halls of Armour
 ** The Infestation
 
-* Chronos ex Machina :draft:
+* Chronos ex Machina
 
-** Highspire :draft:
+** Highspire
 
 #+BEGIN_QUOTE
 In this story, it is quite important to understand that
@@ -637,11 +637,55 @@ so they fell into the hands of the guards.
 To their utmost surprise, both were treated extremely well afterwards.
 Left to wander beautiful rooms before the Lady returns from the Fairs outside.
 They even had a view of it all, since the Spire was tall and with many fully glassed walls.
+Although strangely, most of the servants in the Spire didn't talk much to them.
+They tended to requests but nothing longer than a simple command went acknowledged by the staff,
+them going as far as hastening their step when Kayden and Einar spoke to each other.
+And they agreed that after they deal with whatever this is,
+they'll join forces to find some kind of healer,
+since they both kind-of caused each other big problems.
+Einar thought to himself that it might not necessarily be his fault,
+but if Kayden wants to help him he won't give up that chance.
 
+When lady Liliana, the Queen of the land arrived with many apologies, and begun to explain.
+Hmm, back when the guards yelled "In the name of the Lady", they presumed it was a figure of speech for the law,
+but now, what could she possibly want with them.
+Liliana sent away all her servants and asked about Kayden's skin condition.
+We relayed what had happened on the path and with every sentence her face lit up slightly more,
+seemed though as if she was just mentally ticking of something she already knew or expected.
+After we finished she asked, "Have you ever heard about the Old King's Visions?".
+Einar had heard some bits and parts,
+"I've heard that the Old King started out as a no-lander and worked up
+to the King of the biggest country on this continent, after climbing Carcass mountain".
+"Yes, that is so", continued Lady Liliana, "after he climbed up he saw a prophecy of the future,
+he brought steam power to his kingdom and gained so much influence he overthrew the royal family.
+He also had a run in with some nasty people and ended up very much like the two of you,
+although his wouldbe assailant didn't stick around back then.
+I want you to go up there and bring down the prophecy, and for my assistance, I wish that you cooperate once you do.
+You'll get money, horses and maps.
+But I can't afford to send anyone with you, the Wolves of the East[fn:: A powerful guild of mercenaries.]
+aren't exactly investigators, but they've been contracted to bring in any unknown individual who would happen to
+be travelling with my men.
+I am not the only one after you, but I think I am the kindest you can choose to work with.".
+Einar thinks for a bit and acquiesces but inquires,
+"If I am and the Old king was injured, how could we possibly climb the mountain?".
+"There is a place named Kai's Fountain on the nearby island of Irea",
+Liliana continues, even bringing up a map on the table,
+"something happened there that healed the Old King and
+even let him survive the
+Duress point[fn:: Many places in this world manifest with random magical effects, they are dangerous and best avoided]
+on Carcass Mountain.".
+"Now, after a good nights sleep, I want you to go down to the stables, get yourself some horses and
+ride to Saltwharf, my good friend Captain Titus Shaw will take you further.
+Don't forget to take your supplies before you leave."
+
+Good luck.
+
+** Saltwharf :draft:
+** Iera :draft:
 
 * Worldbuilding :draft:
 
-** Chrono ex Machina
+** Chronos ex Machina
 - modern civilization uses "machines" for their daily tasks
 - Their authorization is based on DNA
 - They work based on gestures and passwords
@@ -723,17 +767,6 @@ They even had a view of it all, since the Spire was tall and with many fully gla
   + Castle sitting on a Hospital machine
   + Wants to pass the mantle to someone noble
 
-- Cities
-  + Highspire
-    - The Spire
-    - Saltwharf
-    - Cleardocks
-      + Far Bank
-      + Garden
-      + Great Water
-      + Hook
-      + Middledocks
-      + West District
 - Seychia
   + Characters
     - Liliana (Queen)
@@ -741,6 +774,17 @@ They even had a view of it all, since the Spire was tall and with many fully gla
     - Galatea the beloved (Court Artist)
     - Ithonij (Court Geograph)
     - Richard + Daniel (Ranchmaster)
+  + Cities
+    + Highspire
+      - The Spire
+      - Saltwharf
+      - Cleardocks
+        + Far Bank
+        + Garden
+        + Great Water
+        + Hook
+        + Middledocks
+        + West District
 - Factions
   + The Hashtar Guild
     + Miners
@@ -753,7 +797,8 @@ They even had a view of it all, since the Spire was tall and with many fully gla
     + Mercenaries
 
 *** Characters
-- Names: Shaw, Cross, Ward, Caylum, Adam Stone, Hanlock, Isaac, Gordon, Archie, Paraskeva, Titus, Sven, Joakim, Kolbjørn, Hawken, Edvin, Torstein, Magnus, Øyvind, Daniel, Anna Maria, Freya
+- Names: Cross, Ward, Caylum, Adam Stone, Hanlock, Isaac, Gordon, Archie, Paraskeva, Sven, Joakim, Kolbjørn, Hawken, Edvin, Torstein, Magnus, Øyvind, Daniel, Anna Maria, Freya
 **** Einar - Main
 **** Kayden - Bandit
 **** Kai - The Immortal
+**** Titus Shaw - Captain
