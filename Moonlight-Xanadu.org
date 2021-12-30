@@ -1,3 +1,4 @@
+# -*- after-save-hook: (org-html-export-to-html org-latex-export-to-pdf); -*-
 #+TITLE: Moonlight Xanadu
 #+AUTHOR: Michal Atlas
 
@@ -9,8 +10,9 @@
 #+LATEX_HEADER: \pagecolor{black}
 #+LATEX_HEADER: \color{white}
 
-#+HTML_HEAD: <link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/coelacanth" type="text/css"/>
-#+HTML_HEAD: <style>body { font-family: 'CoelacanthRegular' } </style>
+#+HTML_HEAD: <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+
+PDF version for download [[file:Moonlight-Xanadu.pdf][here]].
 
 * Killing the Mansion
 It is often claimed that one's life flashes before one's eyes when they
@@ -683,8 +685,7 @@ Good luck.
 ** Saltwharf :draft:
 ** Iera :draft:
 
-* Czech
-** True Stories
+* True Stories (Czech)
 
 #+BEGIN_QUOTE
 Quite some time ago, we got an assignment at School to gather some true stories,
