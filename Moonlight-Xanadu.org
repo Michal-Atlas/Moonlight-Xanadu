@@ -533,6 +533,7 @@ When one of them comes up, I'll add its contents.
 ** Plant Horror
 ** The Halls of Armour
 ** The Infestation
+** The Orange Bus
 
 * Chronos ex Machina
 
@@ -784,7 +785,7 @@ nebyl nikde již k nalezení.
    
 * Worldbuilding :draft:
 
-** Chronos ex Machina
+** Carcass Mountain
 - modern civilization uses "machines" for their daily tasks
 - Their authorization is based on DNA
 - They work based on gestures and passwords
@@ -824,81 +825,150 @@ nebyl nikde již k nalezení.
 - Kai's fountain doesn't heal Kayden's tattoos
 - Island of Iera
 
-*** Timeline
 
-- Crack
-- The main character is bound to the time artifact
-- Brings Kayden clothing from the future
-  + Since he gets close enough to the artifact for the first time
-- The Bandit camp thinks the Cyberpunk-like Tattoos are a plague
-- Kayden goes looking for a cure
-- Gets sent to Irea to Kai's fountain to heal herself and Einar (spine injury from Bandit attack)
-  + By Liliana because she recognizes the tattoos (calls on them herself)
-  + Kayden won't go, she thinks it's for an arrest
-  + Since Einar gave Kayden future clothing he must be time-bound
-  + Liliana doesn't understand the machines
-  + But wants to send Einar to the Duress zone of the time-machine in an attempt to extract a prophecy
-  + Einar needs to find a way to protect himself from the other effects
-- Kayden's ship encounters a Basilisk and leaves her stranded on Iera
-- Does Kayden try to steal or negotiate with Kai? (She's a bandit she'll sneak in)
-  + They'll return further along in the story
-- What do when he finds the artifact?
-  - Releases the operator so anybody can pray to him and gain the machines' powers
+*** Map
+*** Facts
+**** Duress Points
+   - modern civilization uses "machines" for their daily tasks
+   - Their authorization is based on DNA
+   - They work based on gestures and passwords
+   - Time artifact
+     + Main power source
+     + Takes energy from the heat death of the universe
+     + causes permanent existence of the machines
+       - forwards and backwards in time
+   - Machines have a limited range (in 100s of Km)
+     + Their power falls off by distance
+     + Radiation based effects
+     + Plants can absorb radiation
+       - Chernobyl increased radiation during fires
+     + Condemned land
+       - Places with constant random effects
+     + Duress Point
+       - center with the machine
 
-** Encounters
-
-- castle underground
-- daniels ranch
-- leanaras magic shop
-- spire statutorium
-- spire galateas chambers
-- park atrium
-
-- forest outback
-- wolf cave
-- basilisk lake
-- saltwharf arrival
-- faeria
-- manor
-- griffin tower
-
-- The vampire immortal - Kai
-  + Castle sitting on a Hospital machine
-  + Wants to pass the mantle to someone noble
-
-- Seychia
-  + Characters
-    - Liliana (Queen)
-    - Antheus (Captain of the Guard)
-    - Galatea the beloved (Court Artist)
-    - Ithonij (Court Geograph)
-    - Richard + Daniel (Ranchmaster)
-  + Cities
-    + Highspire
-      - The Spire
-      - Saltwharf
-      - Cleardocks
-        + Far Bank
-        + Garden
-        + Great Water
-        + Hook
-        + Middledocks
-        + West District
-- Factions
-  + The Hashtar Guild
-    + Miners
-  + Crimson Forsaken
-  + Feyladen
-    + Elves
-  + Moongold Guild
-  + Mornrise Kinship - Many call them druids, but those are merely disciples and students of their teachings. The Mornrise are a group that have directly bound themselves to the titan gaya.
-  + Wolves of the East
-    + Mercenaries
-
+   - Examples
+     + Mining machine \rightarrow Destruction school of magic
+     + Entertainment \rightarrow Illusion
+     + Time \rightarrow powering the other machines from the heat death, Other high-tech ("magic") artifacts are accidentally brought here
+     + Medicinal \rightarrow undead
+     + Transmutation
+     + Divination
+**** Prophecies
+   - Prophecies?
+     - Old King's Visions
+     - Vision of the operator
+       - Silver ring in the sky above a mountain
+       - White streaks rising from the ring as if a hurricane were passing upwards through it
+       - A green dragon/spirit face rises through the ring and speaks
+     - Written by hero
 *** Characters
-- Names: Cross, Ward, Caylum, Adam Stone, Hanlock, Isaac, Gordon, Archie, Paraskeva, Sven, Joakim, Kolbjørn, Hawken, Edvin, Torstein, Magnus, Øyvind, Daniel, Anna Maria, Freya
-**** Einar - Main
-**** Kayden - Bandit
-**** Kai - The Immortal
-**** Titus Shaw - Captain
+   - Names: Cross, Ward, Adam Stone, Hanlock, Isaac, Gordon, Archie, Paraskeva, Sven, Joakim, Kolbjørn, Hawken, Edvin, Torstein, Magnus, Øyvind, Daniel, Anna Maria, Freya
+**** Anthea
+   [[https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d54a99ee-2446-4fd0-a47f-d49c300b66b1/dbu1v6j-43ae108c-66fb-4b69-a4dc-f79245a74b69.jpg/v1/fill/w_600,h_800,q_75,strp/lady_maria___bloodborne_by_sciamano240_dbu1v6j-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvZDU0YTk5ZWUtMjQ0Ni00ZmQwLWE0N2YtZDQ5YzMwMGI2NmIxXC9kYnUxdjZqLTQzYWUxMDhjLTY2ZmItNGI2OS1hNGRjLWY3OTI0NWE3NGI2OS5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.81o6RhUZH8jcJnsRK-XNhP5FmUZWocWMLA0KmnCgb_M&.jpg]]
+
+   Captain of the guard in [[Highspire]].
+**** Daniel
+   Lives on a ranch outside [[Highspire]] with what he claims to be his son.
+   In actuality they are lovers.
+**** Einar
+   [[file:assets/images/portraits/einar.jpeg]]
+   He himself is a plothook
+**** Ithonij
+   Court Geograph in [[Highspire]].
+**** Kai
+   [[https://i.pinimg.com/originals/2c/97/fe/2c97fe6eb8146ae5d37e0b91d88cd603.jpg]]
+
+   Castle sitting on a Hospital machine.
+   Wants to pass the mantle to someone noble.
+**** Kayden
+   [[file:assets/images/potraits/kayden.jpeg]]
+
+   A Bandit
+**** Lady Galatea the Beloved
+   [[file:assets/images/portraits/galatea.jpeg]]
+   [[https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6f131d22-7974-4793-9db3-2160376b5c72/dczcf96-5efdb719-32d9-4324-b82e-72829537a540.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmMTMxZDIyLTc5NzQtNDc5My05ZGIzLTIxNjAzNzZiNWM3MlwvZGN6Y2Y5Ni01ZWZkYjcxOS0zMmQ5LTQzMjQtYjgyZS03MjgyOTUzN2E1NDAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JlbkI5TUlGKBMtSpo5Q0o8JzKvQfdaoPfJpqt01nWV8&.jpg]]
+**** Lady Liliana
+   [[file:assets/images/portraits/liliana.jpeg]]
+   [[https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6f131d22-7974-4793-9db3-2160376b5c72/dedepuo-a7ad1cc4-bc8a-4cdc-8b5b-9d79d870c4fd.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmMTMxZDIyLTc5NzQtNDc5My05ZGIzLTIxNjAzNzZiNWM3MlwvZGVkZXB1by1hN2FkMWNjNC1iYzhhLTRjZGMtOGI1Yi05ZDc5ZDg3MGM0ZmQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.upeoRyUi8pJhFhm6hrPynTaNqErhUnZK-_uju1XDnYs&.jpg]]
+**** The Old King Aleksis Reignen
+   [[https://www.inigame.id/wp-content/uploads/2016/05/regis-lucis-caelum-.jpg]]
+**** The Weeping Priest of Sabrodt
+   [[file:assets/images/portraits/weeping-priest.jpeg]]
+   [[https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5f376451-4ae7-4581-89a3-cf74778b8f8c/d7nhbuq-18a0e7b9-c9f1-46c3-a9dc-d8ee7cf92a13.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVmMzc2NDUxLTRhZTctNDU4MS04OWEzLWNmNzQ3NzhiOGY4Y1wvZDduaGJ1cS0xOGEwZTdiOS1jOWYxLTQ2YzMtYTlkYy1kOGVlN2NmOTJhMTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MYyDvYNvkb_OHIWOQ52EzQb3Rr4_wdn06ZT1apUR9ZI]]
+
+   He himself isn't a werewolf but a vampire who uses the village as personal protection.
+   Their many rituals,
+   including cuts and the consummation of flesh,
+   have allowed him to even grind his teeth.
+   Though all this does keep him alive,
+   he is quite weak and looks pale and malnourished.
+   Still very strong for an average human.
+
+**** Titus Shaw
+   [[file:assets/images/portraits/titus-shaw.jpeg]]
+   [[https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8bcb9012-0648-492a-9f3e-2aa5d52644ae/de7413i-3ad9c2d8-89a4-4ffa-afcc-8d4529733514.jpg/v1/fill/w_1920,h_1920,q_75,strp/rogue___thief_by_silvaticus_de7413i-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkyMCIsInBhdGgiOiJcL2ZcLzhiY2I5MDEyLTA2NDgtNDkyYS05ZjNlLTJhYTVkNTI2NDRhZVwvZGU3NDEzaS0zYWQ5YzJkOC04OWE0LTRmZmEtYWZjYy04ZDQ1Mjk3MzM1MTQuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.26UrAPIl_GSA713B2m6yTSpkM5nQqR8yd8vfx02bURg]]
+
+   Captain of a boat in [[Saltwharf]].
+   Signs her shipments as William Taylor.
+**** The sculptress
+   [[file:assets/images/portraits/sculptress.jpeg]]
+*** Places
+**** Irea
+***** Kai's Fountain
+**** Mainland
+***** Seychia
+****** Sabrodt
+   Sabrodt is a village near the Irea porttown,
+   but outside the urisdiction of Seychia.
+   It is inhabited almost entirely by werewolves,
+   who have made a strong community there.
+   They hide this fact in fear of retaliation from
+   neighbouring villages and visitors.
+
+   The local clergy are the most powerful force here,
+   they adopted their own form of religion,
+   though their rituals are quite similar to those of other religions.
+   They are headed by [[The Weeping Priest of Sabrodt]]
+
+   - Hooks:
+     - The Murders
+   After the players arrive, there will be a murder.
+   A body brutally torn apart in the night.
+   Somebody couldn't control themselves,
+   and the players are tasked with finding the murderer,
+   by the Weeping Priest.
+
+****** Saltwharf
+******* Cleardocks
+******* Far Bank
+****** Highspire
+   [[file:assets/images/highspire.jpeg]]
+******* Galatea's Park
+******* The Spire
+******* Daniel's Ranch
+****** Mountain Range
+   [[file:assets/images/hashtar.jpeg]]
+   Controlled by the Hashtar Guild
+******* Carcass Mountain
+*** Artifacts
+**** Veil of the Forgotten
+   [[https://i.redd.it/xzt54bgkiav31.png]]
+   Even if in an empty room when the wearer passes a player just state "Somebody passed you".
+   If a player wants to act upon the stranger, dissuade them by stating "There is no reason for that, he wasn't in any way interesting".
+**** The Old King's Regalia
+   Found in The Crypt's of Regalia
+***** Sword
+   [[https://pbs.twimg.com/media/EVKciOpU8AMe-1Z.jpg]]
+*** Creatures
+*** Factions
+**** Crimson Forsaken
+**** Feyladen
+***** Elves
+**** Hashtar Guild
+**** Moongold Guild
+**** Mornrise Kinship
+   Many call them druids, but those are merely disciples and students of their teachings. The Mornrise are a group that have directly bound themselves to the titan gaya.
+**** Wolves of the East
+   Mercenaries
 
