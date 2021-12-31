@@ -3,7 +3,6 @@ set -euox pipefail
 
 git worktree add /tmp/gh-pages gh-pages
 rm -r /tmp/gh-pages/*
-cp -r . /tmp/gh-pages
 cp Moonlight-Xanadu.pdf /tmp/gh-pages/
 cp Moonlight-Xanadu.html /tmp/gh-pages/index.html
 pushd /tmp/gh-pages
