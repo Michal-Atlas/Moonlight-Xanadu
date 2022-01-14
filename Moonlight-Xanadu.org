@@ -12,7 +12,7 @@
 
 #+HTML_HEAD: <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
 
-PDF version for download [[file:Moonlight-Xanadu.pdf][here]].
+#+HTML_EXPORT: *PDF version for download [[file:Moonlight-Xanadu.pdf][here]].*
 
 * Killing the Mansion
 It is often claimed that one's life flashes before one's eyes when they
@@ -552,14 +552,14 @@ When one of them comes up, I'll add its contents.
 ** The Infestation
 ** The Orange Bus
 
-* Chronos ex Machina
-
-** Highspire
+* Carcass Mountain
 
 #+BEGIN_QUOTE
 In this story, it is quite important to understand that
 none of the characters speak English unless otherwise stated.
 #+END_QUOTE
+
+** Highspire, Seychia
 
 Countless cracks and searing pain shoots up Einar's spine, as his back collides with a sharp rock on the ground.
 The human that did throw him there laughing, above him,
@@ -693,15 +693,20 @@ Liliana continues, even bringing up a map on the table,
 "something happened there that healed the Old King and
 even let him survive the
 Duress point[fn:: Many places in this world manifest with random magical effects, they are dangerous and best avoided]
-on Carcass Mountain.".
+of Carcass Mountain.".
 "Now, after a good nights sleep, I want you to go down to the stables, get yourself some horses and
 ride to Saltwharf, my good friend Captain Titus Shaw will take you further.
 Don't forget to take your supplies before you leave."
 
-Good luck.
+"Good luck."
 
-** Saltwharf :draft:
-** Iera :draft:
+** Saltwharf, Seychia
+** Basilisk's Cove
+** Øyvindskr, Irea
+** Sabrodt, Irea
+** Kai's Fountain
+** Carcass Mountain
+** Chronos Ex Machina
 
 * True Stories (Czech)
 
@@ -842,7 +847,6 @@ nebyl nikde již k nalezení.
 - Kai's fountain doesn't heal Kayden's tattoos
 - Island of Iera
 
-
 *** Map
 *** Facts
 **** Duress Points
@@ -881,15 +885,12 @@ nebyl nikde již k nalezení.
      - Written by hero
 *** Characters
    - Names: Cross, Ward, Adam Stone, Hanlock, Isaac, Gordon, Archie, Paraskeva, Sven, Joakim, Kolbjørn, Hawken, Edvin, Torstein, Magnus, Øyvind, Daniel, Anna Maria, Freya
-**** Anthea
+**** Antheus
    [[https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d54a99ee-2446-4fd0-a47f-d49c300b66b1/dbu1v6j-43ae108c-66fb-4b69-a4dc-f79245a74b69.jpg/v1/fill/w_600,h_800,q_75,strp/lady_maria___bloodborne_by_sciamano240_dbu1v6j-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvZDU0YTk5ZWUtMjQ0Ni00ZmQwLWE0N2YtZDQ5YzMwMGI2NmIxXC9kYnUxdjZqLTQzYWUxMDhjLTY2ZmItNGI2OS1hNGRjLWY3OTI0NWE3NGI2OS5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.81o6RhUZH8jcJnsRK-XNhP5FmUZWocWMLA0KmnCgb_M&.jpg]]
 
    Captain of the guard in [[Highspire]].
-**** Daniel
-   Lives on a ranch outside [[Highspire]] with what he claims to be his son.
-   In actuality they are lovers.
 **** Einar
-   [[file:assets/images/portraits/einar.jpeg]]
+   [[file:CarcassMountain/assets/images/portraits/einar.jpeg]]
    He himself is a plothook
 **** Ithonij
    Court Geograph in [[Highspire]].
@@ -899,19 +900,19 @@ nebyl nikde již k nalezení.
    Castle sitting on a Hospital machine.
    Wants to pass the mantle to someone noble.
 **** Kayden
-   [[file:assets/images/potraits/kayden.jpeg]]
+   [[file:CarcassMountain/assets/images/potraits/kayden.jpeg]]
 
    A Bandit
 **** Lady Galatea the Beloved
-   [[file:assets/images/portraits/galatea.jpeg]]
+   [[file:CarcassMountain/assets/images/portraits/galatea.jpeg]]
    [[https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6f131d22-7974-4793-9db3-2160376b5c72/dczcf96-5efdb719-32d9-4324-b82e-72829537a540.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmMTMxZDIyLTc5NzQtNDc5My05ZGIzLTIxNjAzNzZiNWM3MlwvZGN6Y2Y5Ni01ZWZkYjcxOS0zMmQ5LTQzMjQtYjgyZS03MjgyOTUzN2E1NDAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JlbkI5TUlGKBMtSpo5Q0o8JzKvQfdaoPfJpqt01nWV8&.jpg]]
 **** Lady Liliana
-   [[file:assets/images/portraits/liliana.jpeg]]
+   [[file:CarcassMountain/assets/images/portraits/liliana.jpeg]]
    [[https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6f131d22-7974-4793-9db3-2160376b5c72/dedepuo-a7ad1cc4-bc8a-4cdc-8b5b-9d79d870c4fd.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmMTMxZDIyLTc5NzQtNDc5My05ZGIzLTIxNjAzNzZiNWM3MlwvZGVkZXB1by1hN2FkMWNjNC1iYzhhLTRjZGMtOGI1Yi05ZDc5ZDg3MGM0ZmQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.upeoRyUi8pJhFhm6hrPynTaNqErhUnZK-_uju1XDnYs&.jpg]]
-**** The Old King Aleksis Reignen
+**** Bastien - The Old King
    [[https://www.inigame.id/wp-content/uploads/2016/05/regis-lucis-caelum-.jpg]]
-**** The Weeping Priest of Sabrodt
-   [[file:assets/images/portraits/weeping-priest.jpeg]]
+**** Maxmillian - The Weeping Priest of Sabrodt
+   [[file:CarcassMountain/assets/images/portraits/weeping-priest.jpeg]]
    [[https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5f376451-4ae7-4581-89a3-cf74778b8f8c/d7nhbuq-18a0e7b9-c9f1-46c3-a9dc-d8ee7cf92a13.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVmMzc2NDUxLTRhZTctNDU4MS04OWEzLWNmNzQ3NzhiOGY4Y1wvZDduaGJ1cS0xOGEwZTdiOS1jOWYxLTQ2YzMtYTlkYy1kOGVlN2NmOTJhMTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MYyDvYNvkb_OHIWOQ52EzQb3Rr4_wdn06ZT1apUR9ZI]]
 
    He himself isn't a werewolf but a vampire who uses the village as personal protection.
