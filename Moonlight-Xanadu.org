@@ -15,6 +15,7 @@
 #+HTML_EXPORT: *PDF version for download [[file:Moonlight-Xanadu.pdf][here]].*
 
 * Killing the Mansion
+** Killing the Mansion
 It is often claimed that one's life flashes before one's eyes when they
 are dying. And as I sit here with all these wounds, it seems to be true,
 at least partially, because I indeed am dying, but my life didn't
@@ -155,7 +156,7 @@ contemplate if I truly won. I would not have survived it by any chance,
 but Lucilla's death shortened my suffering. Death lead to death.
 However, this death, was the greatest gift.
 
-* The Will to Tango
+** The Will to Tango
 "So... what do we do about the book?" said Cordelia looking
 around the dimly lit room, where several characters sat each in a deep
 leather armchair, each of their faces illuminated by a fire shimmering
@@ -275,47 +276,8 @@ That right is their's to keep, for by definition, it is an act of God.",
 and as the clock struck ten,
 it was midnight, and on the strike of midnight, it was so.
 
-* When Fire Reigns
-
-Thousands of years of ancestry now lie uncovered, closer than ever,
-glaring him in the eyes. Inviting the lost soul to take refuge in the
-few remains of what they once bared. The burdens of all he saw seemed to
-him as to shift unto his heart, with every step he grew more tired, more
-scared of this world. One he had helped build, but one he did not want.
-Vines surround him clutching his feet with all the might of centuries
-untold as if burdens his own had not been enough to bare. He endures for
-his journey's end is not far away. What he strives for, had been decades
-untended to, nature's grasp had dragged its legends deep into the
-ground. Stairs crumbled under every step he took, countless times he
-thought he'd fall, but this he did not care for, not for a single
-moment, he had not another place left to go, no other purpose. On his
-journey he passed countless statues, nature had taken their faces.
-Though he still recognized many, none of them could help him now. The
-gateway to this sanctuary once-great now lays broken and twisted. His
-mere presence disturbs this crypt lost in time. He placed his foot unto
-the tiled balcony which weaved his step into a melody announcing his
-arrival as it echoed through the crypt. He approaches\ldots{} gently
-raising his hand, inciting the rose and vine laden door to open. The
-scape of rust and degraded wood almost quelling the sounds of falling
-metal echoed once again throughout the tower. He entered the room, his
-feet disturbing layers of leaves, ash and dust. He had never come here,
-he had never been allowed. Overhead, cowering, sat many doves, he
-greeted them, for now, they shared fate. He passed torn paintings, old
-carved stone and many crosses. The room had once been decorated with
-beautiful wallpaper gold-laden with icons of religion and nature, even
-these were now but a reminder of a bygone world. He approached an old
-altar on each side of which stood the statue of an angel, one clutching
-a quill and the other a piece of parchment. He approached and as he
-knelt down one of the doves flew down unto the altar, raising its head
-in anticipation. The old man dropped to the ground crying and begged for
-forgiveness, for the world to be saved, for the world to not suffer for
-his sins. He pleaded the struggle would come to an end. The dove flew
-outside the tower from whence the man came and picked an olive branch,
-then soared off the tower. The old man's soul was at rest, he followed
-the dove outside and having completed his journey he took a step off the
-ledge.
-
-* Manifest Legacy
+* Chronicles of Astartis
+** Manifest Legacy
 
 Standing in this hall, the air is much staler than I had expected, as my consciousness dips slightly, I remember very well... a moment.
 
@@ -522,36 +484,6 @@ The smaller fragments might've given us a chance to survive, but no chance,
 the bigger shards were basically flaying us.
 I stood there laughing, until my death.
 
-* Primus seen :draft:
-  #+BEGIN_QUOTE
-  "Do I get a name?"
-  "Have you lost one again?"
-  "Seems so, I lose them all eventually."
-  "I know my child, but that is the nature of humanity."
-  "Do I have to go back?"
-  "Yes. Humanity will never have enough of you, even if they don't think so."
-  #+END_QUOTE
-
-  Primus is chased out of a store,
-  by a very angry storeowner,
-  into a significantly busy high-street.
-  He ignored what the man shouted,
-  being far too used to this kind of behaviour by now.
-  Multiple items flying after him.
-  
-* Mares of the Night :draft:
-Here, I would like to try and remember some of my olden dreams.
-Most of them happened a long time ago, so my memory will not serve well.
-I remember voice-recording most of them, however these are lost to time so far.
-When one of them comes up, I'll add its contents.
-** The Plague
-** The Dragon Queen
-** Spaceship
-** Plant Horror
-** The Halls of Armour
-** The Infestation
-** The Orange Bus
-
 * Carcass Mountain
 
 #+BEGIN_QUOTE
@@ -708,7 +640,48 @@ Don't forget to take your supplies before you leave."
 ** Carcass Mountain
 ** Chronos Ex Machina
 
-* True Stories (Czech)
+* Singles
+** When Fire Reigns
+
+Thousands of years of ancestry now lie uncovered, closer than ever,
+glaring him in the eyes. Inviting the lost soul to take refuge in the
+few remains of what they once bared. The burdens of all he saw seemed to
+him as to shift unto his heart, with every step he grew more tired, more
+scared of this world. One he had helped build, but one he did not want.
+Vines surround him clutching his feet with all the might of centuries
+untold as if burdens his own had not been enough to bare. He endures for
+his journey's end is not far away. What he strives for, had been decades
+untended to, nature's grasp had dragged its legends deep into the
+ground. Stairs crumbled under every step he took, countless times he
+thought he'd fall, but this he did not care for, not for a single
+moment, he had not another place left to go, no other purpose. On his
+journey he passed countless statues, nature had taken their faces.
+Though he still recognized many, none of them could help him now. The
+gateway to this sanctuary once-great now lays broken and twisted. His
+mere presence disturbs this crypt lost in time. He placed his foot unto
+the tiled balcony which weaved his step into a melody announcing his
+arrival as it echoed through the crypt. He approaches\ldots{} gently
+raising his hand, inciting the rose and vine laden door to open. The
+scape of rust and degraded wood almost quelling the sounds of falling
+metal echoed once again throughout the tower. He entered the room, his
+feet disturbing layers of leaves, ash and dust. He had never come here,
+he had never been allowed. Overhead, cowering, sat many doves, he
+greeted them, for now, they shared fate. He passed torn paintings, old
+carved stone and many crosses. The room had once been decorated with
+beautiful wallpaper gold-laden with icons of religion and nature, even
+these were now but a reminder of a bygone world. He approached an old
+altar on each side of which stood the statue of an angel, one clutching
+a quill and the other a piece of parchment. He approached and as he
+knelt down one of the doves flew down unto the altar, raising its head
+in anticipation. The old man dropped to the ground crying and begged for
+forgiveness, for the world to be saved, for the world to not suffer for
+his sins. He pleaded the struggle would come to an end. The dove flew
+outside the tower from whence the man came and picked an olive branch,
+then soared off the tower. The old man's soul was at rest, he followed
+the dove outside and having completed his journey he took a step off the
+ledge.
+
+** Vojna (Czech)
 
 #+BEGIN_QUOTE
 Quite some time ago, we got an assignment at School to gather some true stories,
@@ -805,6 +778,35 @@ procházka k hotelu se proměnila v čtyřhodinovou štreku přes hory, ale ve
 chvíli, kdy jsme chtěli Jamesovi ukázat co si myslíme o jeho “Navigaci”,
 nebyl nikde již k nalezení.
    
+** Mares of the Night                                                 :draft:
+Here, I would like to try and remember some of my olden dreams.
+Most of them happened a long time ago, so my memory will not serve well.
+I remember voice-recording most of them, however these are lost to time so far.
+When one of them comes up, I'll add its contents.
+*** The Plague
+*** The Dragon Queen
+*** Spaceship
+*** Plant Horror
+*** The Halls of Armour
+*** The Infestation
+*** The Orange Bus
+** Primus seen                                                        :draft:
+  #+BEGIN_QUOTE
+  "Do I get a name?"
+  "Have you lost one again?"
+  "Seems so, I lose them all eventually."
+  "I know my child, but that is the nature of humanity."
+  "Do I have to go back?"
+  "Yes. Humanity will never have enough of you, even if they don't think so."
+  #+END_QUOTE
+
+  Primus is chased out of a store,
+  by a very angry storeowner,
+  into a significantly busy high-street.
+  He ignored what the man shouted,
+  being far too used to this kind of behaviour by now.
+  Multiple items flying after him.
+  
 * Worldbuilding :draft:
 
 ** Carcass Mountain
@@ -981,6 +983,8 @@ nebyl nikde již k nalezení.
 *** Creatures
 *** Factions
 **** Crimson Forsaken
+- Actually just one person
+  - Uses illusion magic to look like a big clan
 **** Feyladen
 ***** Elves
 **** Hashtar Guild
