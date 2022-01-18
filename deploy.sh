@@ -8,6 +8,8 @@ cp Moonlight-Xanadu.html /tmp/gh-pages/index.html
 pushd /tmp/gh-pages
 git add .
 git commit -m "$(date -Ins)"
+git config pull.rebase true
+git pull
 git push
 popd
 git worktree remove /tmp/gh-pages
