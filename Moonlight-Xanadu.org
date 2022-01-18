@@ -11,6 +11,7 @@
 #+LATEX_HEADER: \color{white}
 
 #+HTML_HEAD: <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+#+HTML_HEAD: <style>img{max-width: 80vw; max-height: 80vh}</style>
 
 #+HTML_EXPORT: *PDF version for download [[file:Moonlight-Xanadu.pdf][here]].*
 
@@ -276,6 +277,10 @@ That right is their's to keep, for by definition, it is an act of God.",
 and as the clock struck ten,
 it was midnight, and on the strike of midnight, it was so.
 
+* Digita
+
+In the begining there was Init.
+
 * Chronicles of Astartis
 ** Manifest Legacy
 
@@ -493,7 +498,8 @@ none of the characters speak English unless otherwise stated.
 
 ** Highspire, Seychia
 
-Countless cracks and searing pain shoots up Einar's spine, as his back collides with a sharp rock on the ground.
+Countless cracks and searing pain shoots up Einar's spine,
+as his back collides with a sharp rock on the ground.
 The human that did throw him there laughing, above him,
 tall, deceptively lean yet very strong.
 A classic tale of highwayman robbery,
@@ -633,6 +639,94 @@ Don't forget to take your supplies before you leave."
 "Good luck."
 
 ** Saltwharf, Seychia
+
+As boring as that may have been, the journey to Saltwharf was fortunately quite uneventful.
+But Saltwharf, what a sight to behold, a sprawling harbor,
+sat atop a slight hill. It is well known for that, the river that flows through the city,
+flows a few stories below the streets and so many cranes don the above wharfs and silos.
+Both Einar and Kayden stood up from the carriage to look upon its glory,
+the wind almost taking Einar's hat, and after they passed through the gate,
+they ran... well Kayden did, Einar did his slow approximation of a run,
+directly all the way to the sea, it's a wonder they didn't fall in right away.
+"Okay, now what?", asks Einar. Kayden shrugs.
+"I guess, let's go ask around the docks for this Titus Shaw person".
+Kayden replies, "That could attract some unwanted attention".
+"Hmm, you're right. Well, um, we could check the tax registry,
+they have to have a record of what goes in and out.".
+"You go do that, Imma go try check if their ain't any sort of underworld here".
+"Let's not split up Kayden, you know Liliana warned us about that."
+"Sure let's go to your boring office then, Mr. Taxes.".
+
+Fortunately for them, this is one of the perhaps almost too civilised
+and beareaucracy ridden parts of the world.
+It seems that the papers here were in order but there was no Titus Shaw
+among the docked captains, nor among those inbound in the next day or two.
+Though only two ships were sailing for Irea,
+Anna-Maria headed by captain William Taylor,
+and a certain brigantine Bounty of Marcus Lucius.
+"Perhaps he just isn't here or got caught up in something.
+Maybe Lady Liliana just misspoke."
+
+So they just go for William Taylor, find him and arrange to travel with him.
+All this did was lead them to a dark place surrounded by sailors
+asking why they needed him.
+It took some convincing to... get themselves killed slower apparently,
+the sailors and thugs weren't exactly convinced by anything they said.
+Einar finally dropped the name Lady Liliana, which just made the sailor sigh,
+stating "Don't lie to us, everybody starts dropping names like that when they're at their end.".
+But fortunately for our two protagonists, somebody arrived with a loud determined step,
+turned the corner and there stood somebody in Captain's clothes,
+a old looking hat from beneath which curly ginger hair escaped.
+She approached Einar and inquired from her lackeys what sorts
+of excuses they had for searching for her.
+"I just heard the last bit, what do you two have to do with Liliana?".
+Einar took her to the side and explained about how she sent them to Kai's fountain
+and about the Old King similarities.
+Halfway through which she held up her hand to stop him,
+"I know you're from her now",
+she extends her hand.
+Einar grabs it and shakes it politely.
+"I meant payment", exclaims she.
+Einar gives her the gold they had prepared and she extends her other arm
+in for a handshake, prooclaiming "Titus Shaw, also known legally as William Taylor,
+helps with some trades, welcome aboard my ship".
+She raises their hands up and set to her crew that they were not to be harmed and
+expected to be on the ship.
+"NOW", her voice stormed,
+"let's dissolve this here commotion and get to loading some cargo".
+"Aye, captain", they responded and left.
+"Now let's get you two to the ship before you get yourself hurt. Follow me.",
+Shaw beconed and they walked.
+
+They approached the river and Titus stepped on one of the cargo cranes as it as going down,
+followed by an Einar-carrying Kayden.
+They made themselves comfortable and as there was nothing to do, they went to sleep.
+
+For a few days they went to sleep with the setting sun and
+woke up to the sailor's songs.
+However, one cold morning, they were jerked awake and tied
+in a loud commotion.
+Both of them brought up to the main deck to see a plethra of unfamiliar faces,
+and some familiar tied up, some gagged.
+The cargo crates and barrels it turns out contained food and pirates that
+took over the ship during the night.
+One of the assailants, probably their leader Einar guesses, speaks up,
+"Mighty fine crew you got yourself here Shaw,
+they put up a fight and still look quite optimistic about the whole thing.
+Let us change that up a bit.".
+He stands up and shouts to the other pirates,
+"We're gonna have ourselves a good ol' fashioned Keelhaulin'.".
+Two of the tied up crewmates, scream and lunge towards him,
+but he just shoots one of them in the stomach undisturbed,
+the other having been taken care of similarly by another bystander.
+The crew saw their beloved captain tied up, and tossed over the bow of the ship.
+Emerging in a few seconds from the other side,
+she was pulled up and hung feet-up from one of the ship's cranes.
+Her torso and hands slashed to the bone, her head too having many bruises,
+blood covering almost her entire body.
+The leader had some of the salt reserves brought up and threw them at her.
+This thoroughly pissed off the crew but their morale was quite thoroughly devastated.
+
 ** Basilisk's Cove
 ** Øyvindskr, Irea
 ** Sabrodt, Irea
@@ -690,18 +784,18 @@ A few people told me their "war stories" and I put them into this here little ba
 #+END_QUOTE
 
 Přistupte blíže, přistupte blíže a poslechněte si skutečně příběhy.
-Příběhy, jichž každý desítky může vyprávět a každý z nichž je
+Příběhy, jichž každý desítky může vyprávět a každý z nichž je
 zajímavější než kdejaká fantazie. Dnes vám povím příběh Miloše Kalky
-z dob, kdy do zeleného kroje se oblékal a za zvuků polnice se probouzel.
+z dob, kdy do zeleného kroje se oblékal a za zvuků polnice se probouzel.
 
 Začínáme hned od začátku, když poprvé přicházel na vojnu, zužovalo ho
-pomyšlení na zástupy urostlých mužů, každý z nichž může plno strastí a
+pomyšlení na zástupy urostlých mužů, každý z nichž může plno strastí a
 bolesti mu přinést. On totiž vzrostlý nebyl a prát se by mu potíže
-dělalo. A tak s tímto vědomím svěřil se jednomu z nadřízených, o kterém
+dělalo. A tak s tímto vědomím svěřil se jednomu z nadřízených, o kterém
 pouze v dobrém slýchal. Jeho rada byla prostá, „Každý koho vidíš před
 sebou, stejné jako ty myšlenky má. Ukážeš li jim jak bránit se umíš,
-určitě tě rádi na pokoji nechají.“. Vzal si k srdci jeho rady a vyhlížel
-vhodné chvíle ke divadélku svému. Ihned, jakmile viděl někoho podobného
+určitě tě rádi na pokoji nechají.“. Vzal si k srdci jeho rady a vyhlížel
+vhodné chvíle k divadélku svému. Ihned, jakmile viděl někoho podobného
 vzrůstu, vrhnul se na něj a držel se ho zuby nehty. Sotva minutu trvalo,
 nežli ho přišly zkrotit a odvést. Chvíli v cele byl a po krátkém
 rokování s kapitánem, domluvou propuštěn byl, bez úhon až na přezdívku,
@@ -790,7 +884,7 @@ When one of them comes up, I'll add its contents.
 *** The Halls of Armour
 *** The Infestation
 *** The Orange Bus
-** Primus seen                                                        :draft:
+** Primus seen
   #+BEGIN_QUOTE
   "Do I get a name?"
   "Have you lost one again?"
@@ -926,13 +1020,13 @@ When one of them comes up, I'll add its contents.
    Still very strong for an average human.
 
 **** Titus Shaw
-   [[file:assets/images/portraits/titus-shaw.jpeg]]
+   [[file:CarcassMountain/assets/images/portraits/titus-shaw.jpeg]]
    [[https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8bcb9012-0648-492a-9f3e-2aa5d52644ae/de7413i-3ad9c2d8-89a4-4ffa-afcc-8d4529733514.jpg/v1/fill/w_1920,h_1920,q_75,strp/rogue___thief_by_silvaticus_de7413i-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkyMCIsInBhdGgiOiJcL2ZcLzhiY2I5MDEyLTA2NDgtNDkyYS05ZjNlLTJhYTVkNTI2NDRhZVwvZGU3NDEzaS0zYWQ5YzJkOC04OWE0LTRmZmEtYWZjYy04ZDQ1Mjk3MzM1MTQuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.26UrAPIl_GSA713B2m6yTSpkM5nQqR8yd8vfx02bURg]]
 
    Captain of a boat in [[Saltwharf]].
    Signs her shipments as William Taylor.
 **** The sculptress
-   [[file:assets/images/portraits/sculptress.jpeg]]
+   [[file:CarcassMountain/assets/images/portraits/sculptress.jpeg]]
 *** Places
 **** Irea
 ***** Kai's Fountain
@@ -949,7 +1043,7 @@ When one of them comes up, I'll add its contents.
    The local clergy are the most powerful force here,
    they adopted their own form of religion,
    though their rituals are quite similar to those of other religions.
-   They are headed by [[The Weeping Priest of Sabrodt]]
+   They are headed by [[Maxmillian - The Weeping Priest of Sabrodt]]
 
    - Hooks:
      - The Murders
@@ -963,12 +1057,12 @@ When one of them comes up, I'll add its contents.
 ******* Cleardocks
 ******* Far Bank
 ****** Highspire
-   [[file:assets/images/highspire.jpeg]]
+   [[file:CarcassMountain/assets/images/highspire.jpeg]]
 ******* Galatea's Park
 ******* The Spire
 ******* Daniel's Ranch
 ****** Mountain Range
-   [[file:assets/images/hashtar.jpeg]]
+   [[file:CarcassMountain/assets/images/hashtar.jpeg]]
    Controlled by the Hashtar Guild
 ******* Carcass Mountain
 *** Artifacts
