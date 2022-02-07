@@ -25,13 +25,16 @@ jobs:
         run: |
           mkdir -p build
           emacs --batch Moonlight-Xanadu.org -f 'org-html-export-to-html' -f 'org-latex-export-to-latex'
-          mv Moonlight-Xanadu.html build/index.html
       
       - name: Compile LaTeX document
         uses: dante-ev/latex-action@latest
         with:
-          root_file: ../Moonlight-Xanadu.tex
-          working_directory: build
+          root_file: Moonlight-Xanadu.tex
+          
+      - name: Move to build
+        run: |
+          mv Moonlight-Xanadu.html build/index.html
+          mv Moonlight-Xanadu.pdf build
       
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4.2.3
