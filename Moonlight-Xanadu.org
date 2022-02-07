@@ -13,7 +13,7 @@
 #+HTML_HEAD: <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
 #+HTML_HEAD: <style>img{max-width: 80vw; max-height: 80vh}</style>
 
-#+HTML_EXPORT: *PDF version for download [[file:Moonlight-Xanadu.pdf][here]].*
+*PDF download [[https://mlxan.michal-atlas.xyz/Moonlight-Xanadu.pdf][here]].*
 
 * Killing the Mansion
 ** Killing the Mansion
