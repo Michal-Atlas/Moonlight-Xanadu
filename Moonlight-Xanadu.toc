@@ -1,0 +1,19 @@
+\contentsline {part}{I\hspace {1em}Killing the Mansion}{5}{part.1}%
+\contentsline {chapter}{\numberline {1}Killing the Mansion}{7}{chapter.1}%
+\contentsline {chapter}{\numberline {2}The Will to Tango}{13}{chapter.2}%
+\contentsline {part}{II\hspace {1em}Digita}{19}{part.2}%
+\contentsline {part}{III\hspace {1em}Chronicles of Astartis}{23}{part.3}%
+\contentsline {chapter}{\numberline {3}Manifest Legacy}{25}{chapter.3}%
+\contentsline {part}{IV\hspace {1em}Carcass Mountain}{33}{part.4}%
+\contentsline {chapter}{\numberline {4}Highspire, Seychia}{37}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Saltwharf, Seychia}{43}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Basilisk's Cove}{47}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Øyvindskr, Irea}{49}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Sabrodt, Irea}{51}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Kai's Fountain}{53}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Carcass Mountain}{55}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Chronos Ex Machina}{57}{chapter.11}%
+\contentsline {part}{V\hspace {1em}Singles}{59}{part.5}%
+\contentsline {chapter}{\numberline {12}When Fire Reigns}{61}{chapter.12}%
+\contentsline {chapter}{\numberline {13}Vojna (Czech)}{63}{chapter.13}%
+\contentsline {chapter}{\numberline {14}Primus seen}{67}{chapter.14}%

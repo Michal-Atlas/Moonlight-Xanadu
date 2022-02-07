@@ -3,14 +3,14 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2022-01-18 Tue 11:39 -->
+<!-- 2022-02-07 Mon 21:02 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Moonlight Xanadu</title>
+<meta name="generator" content="Org mode" />
 <meta name="author" content="Michal Atlas" />
-<meta name="generator" content="Org Mode" />
-<style>
-  #content { max-width: 60em; margin: auto; }
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
              margin-bottom: .2em; }
   .subtitle { text-align: center;
@@ -31,9 +31,8 @@
   #postamble p, #preamble p { font-size: 90%; margin: .2em; }
   p.verse { margin-left: 3%; }
   pre {
-    border: 1px solid #e6e6e6;
-    border-radius: 3px;
-    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
     padding: 8pt;
     font-family: monospace;
     overflow: auto;
@@ -42,21 +41,21 @@
   pre.src {
     position: relative;
     overflow: auto;
+    padding-top: 1.2em;
   }
   pre.src:before {
     display: none;
     position: absolute;
-    top: -8px;
-    right: 12px;
+    background-color: white;
+    top: -10px;
+    right: 10px;
     padding: 3px;
-    color: #555;
-    background-color: #f2f2f299;
+    border: 1px solid black;
   }
   pre.src:hover:before { display: inline; margin-top: 14px;}
   /* Languages per Org manual */
   pre.src-asymptote:before { content: 'Asymptote'; }
   pre.src-awk:before { content: 'Awk'; }
-  pre.src-authinfo::before { content: 'Authinfo'; }
   pre.src-C:before { content: 'C'; }
   /* pre.src-C++ doesn't work in CSS */
   pre.src-clojure:before { content: 'Clojure'; }
@@ -192,9 +191,32 @@
   .org-info-js_search-highlight
     { background-color: #ffff00; color: #000000; font-weight: bold; }
   .org-svg { width: 90%; }
+  /*]]>*/-->
 </style>
 <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
 <style>img{max-width: 80vw; max-height: 80vh}</style>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
         displayAlign: "center",
@@ -215,56 +237,57 @@
              }
 });
 </script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
 <body>
-<div id="content" class="content">
+<div id="content">
 <h1 class="title">Moonlight Xanadu</h1>
-<div id="table-of-contents" role="doc-toc">
+<div id="table-of-contents">
 <h2>Table of Contents</h2>
-<div id="text-table-of-contents" role="doc-toc">
+<div id="text-table-of-contents">
 <ul>
-<li><a href="#orga972565">1. Killing the Mansion</a>
+<li><a href="#orgff35d6e">1. Killing the Mansion</a>
 <ul>
-<li><a href="#org331947a">1.1. Killing the Mansion</a></li>
-<li><a href="#org68b0d11">1.2. The Will to Tango</a></li>
+<li><a href="#orge44a335">1.1. Killing the Mansion</a></li>
+<li><a href="#orgea527d5">1.2. The Will to Tango</a></li>
 </ul>
 </li>
-<li><a href="#orgcde725c">2. Digita</a></li>
-<li><a href="#orga19c84e">3. Chronicles of Astartis</a>
+<li><a href="#org6717fb3">2. Digita</a></li>
+<li><a href="#orgbdd1efb">3. Chronicles of Astartis</a>
 <ul>
-<li><a href="#org9220c50">3.1. Manifest Legacy</a></li>
+<li><a href="#org4c7d076">3.1. Manifest Legacy</a></li>
 </ul>
 </li>
-<li><a href="#orgfe19c06">4. Carcass Mountain</a>
+<li><a href="#org85805fa">4. Carcass Mountain</a>
 <ul>
-<li><a href="#org61dab3f">4.1. Highspire, Seychia</a></li>
-<li><a href="#org98be97f">4.2. Saltwharf, Seychia</a></li>
-<li><a href="#org218bdfc">4.3. Basilisk's Cove</a></li>
-<li><a href="#orgc515eaf">4.4. Øyvindskr, Irea</a></li>
-<li><a href="#org42d1862">4.5. Sabrodt, Irea</a></li>
-<li><a href="#orgcb8d5bb">4.6. Kai's Fountain</a></li>
-<li><a href="#org08022e3">4.7. Carcass Mountain</a></li>
-<li><a href="#orgd5f4059">4.8. Chronos Ex Machina</a></li>
+<li><a href="#orgb253ca9">4.1. Highspire, Seychia</a></li>
+<li><a href="#org784cfcf">4.2. Saltwharf, Seychia</a></li>
+<li><a href="#org586042c">4.3. Basilisk's Cove</a></li>
+<li><a href="#org4fa39fe">4.4. Øyvindskr, Irea</a></li>
+<li><a href="#org1033427">4.5. Sabrodt, Irea</a></li>
+<li><a href="#org4b9afd2">4.6. Kai's Fountain</a></li>
+<li><a href="#org064a9f9">4.7. Carcass Mountain</a></li>
+<li><a href="#org401cbd5">4.8. Chronos Ex Machina</a></li>
 </ul>
 </li>
-<li><a href="#org8ba6621">5. Singles</a>
+<li><a href="#org0fe841b">5. Singles</a>
 <ul>
-<li><a href="#org968b30a">5.1. When Fire Reigns</a></li>
-<li><a href="#org69886c7">5.2. Vojna (Czech)</a></li>
-<li><a href="#orgcef2d38">5.3. Primus seen</a></li>
+<li><a href="#orgc69ffde">5.1. When Fire Reigns</a></li>
+<li><a href="#orge6ab061">5.2. Vojna (Czech)</a></li>
+<li><a href="#orgad8cd65">5.3. Primus seen</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orga972565" class="outline-2">
-<h2 id="orga972565"><span class="section-number-2">1.</span> Killing the Mansion</h2>
+<div id="outline-container-orgff35d6e" class="outline-2">
+<h2 id="orgff35d6e"><span class="section-number-2">1</span> Killing the Mansion</h2>
 <div class="outline-text-2" id="text-1">
 </div>
-<div id="outline-container-org331947a" class="outline-3">
-<h3 id="org331947a"><span class="section-number-3">1.1.</span> Killing the Mansion</h3>
+<div id="outline-container-orge44a335" class="outline-3">
+<h3 id="orge44a335"><span class="section-number-3">1.1</span> Killing the Mansion</h3>
 <div class="outline-text-3" id="text-1-1">
 <p>
 It is often claimed that one's life flashes before one's eyes when they
@@ -432,8 +455,8 @@ However, this death, was the greatest gift.
 </div>
 </div>
 
-<div id="outline-container-org68b0d11" class="outline-3">
-<h3 id="org68b0d11"><span class="section-number-3">1.2.</span> The Will to Tango</h3>
+<div id="outline-container-orgea527d5" class="outline-3">
+<h3 id="orgea527d5"><span class="section-number-3">1.2</span> The Will to Tango</h3>
 <div class="outline-text-3" id="text-1-2">
 <p>
 "So&#x2026; what do we do about the book?" said Cordelia looking
@@ -575,8 +598,8 @@ it was midnight, and on the strike of midnight, it was so.
 </div>
 </div>
 
-<div id="outline-container-orgcde725c" class="outline-2">
-<h2 id="orgcde725c"><span class="section-number-2">2.</span> Digita</h2>
+<div id="outline-container-org6717fb3" class="outline-2">
+<h2 id="org6717fb3"><span class="section-number-2">2</span> Digita</h2>
 <div class="outline-text-2" id="text-2">
 <p>
 In the begining there was Init.
@@ -584,12 +607,12 @@ In the begining there was Init.
 </div>
 </div>
 
-<div id="outline-container-orga19c84e" class="outline-2">
-<h2 id="orga19c84e"><span class="section-number-2">3.</span> Chronicles of Astartis</h2>
+<div id="outline-container-orgbdd1efb" class="outline-2">
+<h2 id="orgbdd1efb"><span class="section-number-2">3</span> Chronicles of Astartis</h2>
 <div class="outline-text-2" id="text-3">
 </div>
-<div id="outline-container-org9220c50" class="outline-3">
-<h3 id="org9220c50"><span class="section-number-3">3.1.</span> Manifest Legacy</h3>
+<div id="outline-container-org4c7d076" class="outline-3">
+<h3 id="org4c7d076"><span class="section-number-3">3.1</span> Manifest Legacy</h3>
 <div class="outline-text-3" id="text-3-1">
 <p>
 Standing in this hall, the air is much staler than I had expected, as my consciousness dips slightly, I remember very well&#x2026; a moment.
@@ -839,8 +862,8 @@ I stood there laughing, until my death.
 </div>
 </div>
 
-<div id="outline-container-orgfe19c06" class="outline-2">
-<h2 id="orgfe19c06"><span class="section-number-2">4.</span> Carcass Mountain</h2>
+<div id="outline-container-org85805fa" class="outline-2">
+<h2 id="org85805fa"><span class="section-number-2">4</span> Carcass Mountain</h2>
 <div class="outline-text-2" id="text-4">
 <blockquote>
 <p>
@@ -850,8 +873,8 @@ none of the characters speak English unless otherwise stated.
 </blockquote>
 </div>
 
-<div id="outline-container-org61dab3f" class="outline-3">
-<h3 id="org61dab3f"><span class="section-number-3">4.1.</span> Highspire, Seychia</h3>
+<div id="outline-container-orgb253ca9" class="outline-3">
+<h3 id="orgb253ca9"><span class="section-number-3">4.1</span> Highspire, Seychia</h3>
 <div class="outline-text-3" id="text-4-1">
 <p>
 Countless cracks and searing pain shoots up Einar's spine,
@@ -911,7 +934,7 @@ need not stop during the lunch hours.
 Einar also went down to eat but didn't enjoy himself for very long,
 since suddenly, a tall hooded figure grabbed him by the neck and lifted him up,
 knocking his chair and cane over.
-"Lift my curse Wazzack<sup><a id="fnr.1" class="footref" href="#fn.1" role="doc-backlink">1</a></sup>,
+"Lift my curse Wazzack<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>,
 or die here by my hand.", said she.
 Einar was understandably confused, until the figure swiftly cleared that up.
 She pulled down her hood to reveal the bandit who had just attacked him,
@@ -990,7 +1013,7 @@ He also had a run in with some nasty people and ended up very much like the two 
 although his wouldbe assailant didn't stick around back then.
 I want you to go up there and bring down the prophecy, and for my assistance, I wish that you cooperate once you do.
 You'll get money, horses and maps.
-But I can't afford to send anyone with you, the Wolves of the East<sup><a id="fnr.2" class="footref" href="#fn.2" role="doc-backlink">2</a></sup>
+But I can't afford to send anyone with you, the Wolves of the East<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
 aren't exactly investigators, but they've been contracted to bring in any unknown individual who would happen to
 be travelling with my men.
 I am not the only one after you, but I think I am the kindest you can choose to work with.".
@@ -1000,7 +1023,7 @@ Einar thinks for a bit and acquiesces but inquires,
 Liliana continues, even bringing up a map on the table,
 "something happened there that healed the Old King and
 even let him survive the
-Duress point<sup><a id="fnr.3" class="footref" href="#fn.3" role="doc-backlink">3</a></sup>
+Duress point<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>
 of Carcass Mountain.".
 "Now, after a good nights sleep, I want you to go down to the stables, get yourself some horses and
 ride to Saltwharf, my good friend Captain Titus Shaw will take you further.
@@ -1013,8 +1036,8 @@ Don't forget to take your supplies before you leave."
 </div>
 </div>
 
-<div id="outline-container-org98be97f" class="outline-3">
-<h3 id="org98be97f"><span class="section-number-3">4.2.</span> Saltwharf, Seychia</h3>
+<div id="outline-container-org784cfcf" class="outline-3">
+<h3 id="org784cfcf"><span class="section-number-3">4.2</span> Saltwharf, Seychia</h3>
 <div class="outline-text-3" id="text-4-2">
 <p>
 As boring as that may have been, the journey to Saltwharf was fortunately quite uneventful.
@@ -1115,32 +1138,32 @@ This thoroughly pissed off the crew but their morale was quite thoroughly devast
 </div>
 </div>
 
-<div id="outline-container-org218bdfc" class="outline-3">
-<h3 id="org218bdfc"><span class="section-number-3">4.3.</span> Basilisk's Cove</h3>
+<div id="outline-container-org586042c" class="outline-3">
+<h3 id="org586042c"><span class="section-number-3">4.3</span> Basilisk's Cove</h3>
 </div>
-<div id="outline-container-orgc515eaf" class="outline-3">
-<h3 id="orgc515eaf"><span class="section-number-3">4.4.</span> Øyvindskr, Irea</h3>
+<div id="outline-container-org4fa39fe" class="outline-3">
+<h3 id="org4fa39fe"><span class="section-number-3">4.4</span> Øyvindskr, Irea</h3>
 </div>
-<div id="outline-container-org42d1862" class="outline-3">
-<h3 id="org42d1862"><span class="section-number-3">4.5.</span> Sabrodt, Irea</h3>
+<div id="outline-container-org1033427" class="outline-3">
+<h3 id="org1033427"><span class="section-number-3">4.5</span> Sabrodt, Irea</h3>
 </div>
-<div id="outline-container-orgcb8d5bb" class="outline-3">
-<h3 id="orgcb8d5bb"><span class="section-number-3">4.6.</span> Kai's Fountain</h3>
+<div id="outline-container-org4b9afd2" class="outline-3">
+<h3 id="org4b9afd2"><span class="section-number-3">4.6</span> Kai's Fountain</h3>
 </div>
-<div id="outline-container-org08022e3" class="outline-3">
-<h3 id="org08022e3"><span class="section-number-3">4.7.</span> Carcass Mountain</h3>
+<div id="outline-container-org064a9f9" class="outline-3">
+<h3 id="org064a9f9"><span class="section-number-3">4.7</span> Carcass Mountain</h3>
 </div>
-<div id="outline-container-orgd5f4059" class="outline-3">
-<h3 id="orgd5f4059"><span class="section-number-3">4.8.</span> Chronos Ex Machina</h3>
+<div id="outline-container-org401cbd5" class="outline-3">
+<h3 id="org401cbd5"><span class="section-number-3">4.8</span> Chronos Ex Machina</h3>
 </div>
 </div>
 
-<div id="outline-container-org8ba6621" class="outline-2">
-<h2 id="org8ba6621"><span class="section-number-2">5.</span> Singles</h2>
+<div id="outline-container-org0fe841b" class="outline-2">
+<h2 id="org0fe841b"><span class="section-number-2">5</span> Singles</h2>
 <div class="outline-text-2" id="text-5">
 </div>
-<div id="outline-container-org968b30a" class="outline-3">
-<h3 id="org968b30a"><span class="section-number-3">5.1.</span> When Fire Reigns</h3>
+<div id="outline-container-orgc69ffde" class="outline-3">
+<h3 id="orgc69ffde"><span class="section-number-3">5.1</span> When Fire Reigns</h3>
 <div class="outline-text-3" id="text-5-1">
 <p>
 Thousands of years of ancestry now lie uncovered, closer than ever,
@@ -1184,8 +1207,8 @@ ledge.
 </div>
 </div>
 
-<div id="outline-container-org69886c7" class="outline-3">
-<h3 id="org69886c7"><span class="section-number-3">5.2.</span> Vojna (Czech)</h3>
+<div id="outline-container-orge6ab061" class="outline-3">
+<h3 id="orge6ab061"><span class="section-number-3">5.2</span> Vojna (Czech)</h3>
 <div class="outline-text-3" id="text-5-2">
 <blockquote>
 <p>
@@ -1296,8 +1319,8 @@ nebyl nikde již k nalezení.
 </div>
 </div>
 
-<div id="outline-container-orgcef2d38" class="outline-3">
-<h3 id="orgcef2d38"><span class="section-number-3">5.3.</span> Primus seen</h3>
+<div id="outline-container-orgad8cd65" class="outline-3">
+<h3 id="orgad8cd65"><span class="section-number-3">5.3</span> Primus seen</h3>
 <div class="outline-text-3" id="text-5-3">
 <blockquote>
 <p>
@@ -1325,18 +1348,18 @@ Multiple items flying after him.
 <h2 class="footnotes">Footnotes: </h2>
 <div id="text-footnotes">
 
-<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1" role="doc-backlink">1</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara">A most hateful word for somebody with a connection to magic</p></div></div>
+<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> <div class="footpara"><p class="footpara">A most hateful word for somebody with a connection to magic</p></div></div>
 
-<div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2" role="doc-backlink">2</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara">A powerful guild of mercenaries.</p></div></div>
+<div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> <div class="footpara"><p class="footpara">A powerful guild of mercenaries.</p></div></div>
 
-<div class="footdef"><sup><a id="fn.3" class="footnum" href="#fnr.3" role="doc-backlink">3</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara">Many places in this world manifest with random magical effects, they are dangerous and best avoided</p></div></div>
+<div class="footdef"><sup><a id="fn.3" class="footnum" href="#fnr.3">3</a></sup> <div class="footpara"><p class="footpara">Many places in this world manifest with random magical effects, they are dangerous and best avoided</p></div></div>
 
 
 </div>
 </div></div>
 <div id="postamble" class="status">
 <p class="author">Author: Michal Atlas</p>
-<p class="date">Created: 2022-01-18 Tue 11:39</p>
+<p class="date">Created: 2022-02-07 Mon 21:02</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
