@@ -24,9 +24,15 @@ jobs:
       - name: Build
         run: |
           mkdir -p build
-          emacs --batch README.org -f 'org-html-export-to-html' -f 'org-latex-export-to-pdf'
+          emacs --batch README.org -f 'org-html-export-to-html' -f 'org-latex-export-to-latex'
           mv Moonlight-Xanadu.html build/index.html
-          mv Moonlight-Xanadu.pdf build/
+      
+      - name: Compile LaTeX document
+        uses: dante-ev/latex-action@latest
+        with:
+          root_file: Moonlight-Xanadu.tex
+          working_directory: build
+      
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4.2.3
         with:
