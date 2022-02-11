@@ -277,7 +277,7 @@ That right is their's to keep, for by definition, it is an act of God.",
 and as the clock struck ten,
 it was midnight, and on the strike of midnight, it was so.
 
-* Digita
+* Digita :draft:
 
 In the begining there was Init.
 
@@ -727,12 +727,12 @@ blood covering almost her entire body.
 The leader had some of the salt reserves brought up and threw them at her.
 This thoroughly pissed off the crew but their morale was quite thoroughly devastated.
 
-** Basilisk's Cove
-** Øyvindskr, Irea
-** Sabrodt, Irea
-** Kai's Fountain
-** Carcass Mountain
-** Chronos Ex Machina
+** Basilisk's Cove :draft:
+** Øyvindskr, Irea :draft:
+** Sabrodt, Irea :draft:
+** Kai's Fountain :draft:
+** Carcass Mountain :draft:
+** Chronos Ex Machina :draft:
 
 * Singles
 ** When Fire Reigns
@@ -884,7 +884,7 @@ When one of them comes up, I'll add its contents.
 *** The Halls of Armour
 *** The Infestation
 *** The Orange Bus
-** Primus seen
+** Primus seen :draft:
   #+BEGIN_QUOTE
   "Do I get a name?"
   "Have you lost one again?"
